@@ -75,7 +75,29 @@ export const api = {
       category: c.category,
       riskLevel: c.risk_level,
       eligibleProducts: c.eligible_products,
-      recommendation: c.recommendation,
+      recommendation: {
+      loanType: c.eligible_products?.[0] ?? "N/A",
+
+      amount: c.salary
+        ? `₹${Math.round(c.salary * 20).toLocaleString("en-IN")}`
+        : "N/A",
+
+      confidence: Math.round(c.prospect_score),
+
+      risk:
+        c.risk_level === "Very Low"
+          ? "Low"
+          : c.risk_level === "Low"
+          ? "Medium"
+          : "High",
+
+      interestRate:
+        c.prospect_score >= 80
+          ? "8.50%"
+          : c.prospect_score >= 65
+          ? "10.25%"
+          : "12.75%",
+    },
     };
   },
 
