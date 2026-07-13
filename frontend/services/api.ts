@@ -1,4 +1,4 @@
-const API = "https://idbi-prospectassist-prospectassist-ai.onrender.com/";
+const API = "https://idbi-prospectassist-prospectassist-ai.onrender.com";
 
 async function request(url: string, options?: RequestInit) {
   try {
