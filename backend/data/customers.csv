@@ -1,0 +1,1001 @@
+customer_id,name,age,occupation,salary,monthly_expense,savings,emi,credit_score,employment_years,existing_loan,transaction_count,loan_history,city,emi_ratio,savings_ratio,prospect_score,category
+CUST0001,Zayan Sethi,45,Government Employee,58094,40490,858901,4905,793,17,No,172,Poor,Pune,0.08,1.23,83,Excellent
+CUST0002,Om Pandit,56,Civil Engineer,217376,164306,815967,19372,678,16,No,168,Poor,Chennai,0.09,0.31,81,Excellent
+CUST0003,Reyansh Prabhu,29,Teacher,169897,133303,540264,20274,331,14,Yes,32,Good,Hyderabad,0.12,0.26,72,Good
+CUST0004,Mitali Barad,36,Lawyer,221855,148425,2719305,18702,849,32,No,366,Poor,Bangalore,0.08,1.02,96,Excellent
+CUST0005,Ojas Butala,24,Mechanical Engineer,26588,16912,450861,3440,595,4,No,147,Average,Bangalore,0.13,1.41,53,Average
+CUST0006,Jacob Dalal,58,Lawyer,148044,47779,2436066,19035,709,15,No,148,Poor,Bangalore,0.13,1.37,89,Excellent
+CUST0007,Vedika Mannan,38,Civil Engineer,201363,107426,2688074,12399,592,3,No,29,Average,Hyderabad,0.06,1.11,73,Good
+CUST0008,Manya Bali,32,Student,102205,57393,904988,2369,858,10,Yes,83,Average,Kolkata,0.02,0.74,93,Excellent
+CUST0009,Naksh Kohli,49,Civil Engineer,115362,36059,681961,40151,584,6,No,334,Good,Mumbai,0.35,0.49,66,Good
+CUST0010,Arya Wable,44,Teacher,128988,73923,1597596,8471,541,9,No,112,Average,Hyderabad,0.07,1.03,76,Good
+CUST0011,Ekani Dey,58,Farmer,232011,158735,1368680,28810,587,12,No,298,Average,Chennai,0.12,0.49,78,Good
+CUST0012,Ekansh Desai,46,Data Analyst,144645,106357,1601633,47573,321,35,Yes,384,Poor,Chennai,0.33,0.92,66,Good
+CUST0013,Jeremiah Srinivasan,51,Software Engineer,46190,27493,1194717,6782,709,26,No,105,Good,Delhi,0.15,2.16,83,Excellent
+CUST0014,Lakshmi Balasubramanian,50,Sales Executive,51226,19425,2682445,2511,438,30,No,113,Average,Pune,0.05,4.36,68,Good
+CUST0015,Atharv Iyengar,21,Data Analyst,179298,141995,2208593,70470,450,32,No,160,Poor,Delhi,0.39,1.03,69,Good
+CUST0016,Chandresh Vyas,52,Bank Employee,92663,58144,1905492,18580,502,8,Yes,145,Good,Ahmedabad,0.2,1.71,67,Good
+CUST0017,Prisha Ratti,60,Mechanical Engineer,67756,25502,2338684,18990,856,15,Yes,264,Average,Delhi,0.28,2.88,87,Excellent
+CUST0018,Sarthak Viswanathan,29,Government Employee,22613,13103,1107469,6081,584,22,No,74,Average,Pune,0.27,4.08,60,Average
+CUST0019,Darika Shenoy,55,Bank Employee,158290,69512,2582012,19347,750,23,Yes,265,Average,Jaipur,0.12,1.36,92,Excellent
+CUST0020,Hema Kamdar,22,Software Engineer,201136,145928,1596602,28747,306,35,No,386,Average,Mumbai,0.14,0.66,78,Good
+CUST0021,Jagrati Buch,50,Business,182471,145894,1576808,54447,510,18,Yes,373,Average,Mumbai,0.3,0.72,68,Good
+CUST0022,Arya Buch,40,Software Engineer,232005,117283,1534936,59731,639,31,No,186,Poor,Kolkata,0.26,0.55,78,Good
+CUST0023,Aadhya Pant,25,Farmer,134029,76919,2693240,52854,726,27,No,253,Poor,Mumbai,0.39,1.67,82,Excellent
+CUST0024,Hamsini Gulati,44,Student,99576,61022,2824603,6255,685,32,Yes,396,Good,Kolkata,0.06,2.36,77,Good
+CUST0025,Nikita Sethi,26,Mechanical Engineer,41612,28650,839504,14624,877,21,Yes,273,Good,Delhi,0.35,1.68,80,Excellent
+CUST0026,Lekha Baria,39,Bank Employee,220371,146218,410720,38605,501,12,Yes,113,Poor,Pune,0.18,0.16,68,Good
+CUST0027,Madhav Divan,60,Mechanical Engineer,115197,56401,2747149,17499,506,35,Yes,38,Good,Jaipur,0.15,1.99,77,Good
+CUST0028,Vamakshi Parikh,38,Doctor,91238,47269,1842920,10700,397,19,Yes,309,Poor,Pune,0.12,1.68,68,Good
+CUST0029,Dhriti Bali,25,Doctor,50087,28343,1853702,15304,588,10,No,190,Average,Ahmedabad,0.31,3.08,59,Average
+CUST0030,Sanaya Rattan,31,Sales Executive,225944,90470,1674104,29389,482,9,No,108,Good,Delhi,0.13,0.62,78,Good
+CUST0031,Harish Chandra,40,Farmer,113028,48345,2236934,39639,545,19,No,222,Average,Pune,0.35,1.65,71,Good
+CUST0032,Jacob Kara,42,Teacher,239314,81209,1980420,21730,715,20,No,381,Good,Kolkata,0.09,0.69,93,Excellent
+CUST0033,Aarini Chandra,25,Government Employee,43625,22792,1775153,4009,304,33,No,253,Poor,Ahmedabad,0.09,3.39,66,Good
+CUST0034,Harini Ramanathan,50,Doctor,201343,97157,544582,21732,373,5,No,202,Poor,Hyderabad,0.11,0.23,66,Good
+CUST0035,Rushil Hora,25,Software Engineer,58402,40378,2345031,11937,330,1,No,165,Good,Hyderabad,0.2,3.35,59,Average
+CUST0036,Amara Magar,55,Electrician,225499,160242,829727,4743,766,25,Yes,34,Average,Ahmedabad,0.02,0.31,92,Excellent
+CUST0037,Forum Varty,53,Teacher,74506,37686,662275,25160,723,20,Yes,386,Poor,Hyderabad,0.34,0.74,69,Good
+CUST0038,Samesh Joshi,28,Farmer,113159,55803,1212579,14189,871,27,Yes,357,Poor,Bangalore,0.13,0.89,93,Excellent
+CUST0039,Leela Chokshi,28,Software Engineer,112821,80403,985553,22496,389,27,Yes,204,Average,Pune,0.2,0.73,72,Good
+CUST0040,Manan Kaur,24,Data Analyst,95082,30320,2255801,17366,340,31,Yes,137,Average,Delhi,0.18,1.98,70,Good
+CUST0041,Jackson Babu,47,Business,37101,26850,976623,1235,892,7,No,399,Average,Hyderabad,0.03,2.19,86,Excellent
+CUST0042,Karan Soman,58,Civil Engineer,137915,96823,2559498,23163,603,9,Yes,214,Good,Mumbai,0.17,1.55,80,Excellent
+CUST0043,Benjamin Dass,43,Mechanical Engineer,162679,112366,638514,4007,866,20,No,214,Good,Chennai,0.02,0.33,95,Excellent
+CUST0044,Inaya Bora,21,Government Employee,235704,118035,2324432,93728,795,28,Yes,10,Good,Ahmedabad,0.4,0.82,82,Excellent
+CUST0045,Chandran Solanki,44,Teacher,86900,67364,2364871,3934,479,1,Yes,117,Poor,Mumbai,0.05,2.27,60,Average
+CUST0046,Jalsa Garg,32,Electrician,196677,88520,2901707,43363,811,12,No,142,Good,Chennai,0.22,1.23,97,Excellent
+CUST0047,Aadi Kaul,50,Teacher,167130,106807,1836735,44313,775,15,No,224,Poor,Ahmedabad,0.27,0.92,90,Excellent
+CUST0048,Rayaan Saxena,55,Electrician,72683,46802,2984828,15227,670,9,No,73,Good,Pune,0.21,3.42,75,Good
+CUST0049,Avni Sabharwal,37,Data Analyst,230480,116104,1088796,53824,864,33,No,76,Good,Mumbai,0.23,0.39,97,Excellent
+CUST0050,Sai Sura,31,Bank Employee,207290,151513,429127,39324,477,33,No,26,Average,Delhi,0.19,0.17,73,Good
+CUST0051,Nisha Shan,50,Business,173157,93732,182678,11784,352,12,No,267,Poor,Chennai,0.07,0.09,66,Good
+CUST0052,Rachit Peri,53,Teacher,117879,82665,1466842,26364,423,20,No,190,Poor,Ahmedabad,0.22,1.04,73,Good
+CUST0053,Riya Buch,34,Designer,88567,58816,1271009,14823,409,1,Yes,351,Good,Chennai,0.17,1.2,64,Average
+CUST0054,Advik Acharya,28,Designer,82306,65722,525430,3541,698,2,Yes,306,Poor,Bangalore,0.04,0.53,60,Average
+CUST0055,Faraj Grewal,22,Electrician,210631,134812,275100,74585,666,13,No,58,Good,Hyderabad,0.35,0.11,68,Good
+CUST0056,Omkaar Kaul,54,Farmer,26736,8529,38402,3816,836,3,Yes,22,Poor,Chennai,0.14,0.12,58,Average
+CUST0057,Odika Wason,50,Mechanical Engineer,54797,28314,2889637,995,652,33,No,396,Poor,Delhi,0.02,4.39,71,Good
+CUST0058,Zansi Balan,45,Doctor,222624,144683,2779275,82273,840,24,No,240,Average,Jaipur,0.37,1.04,91,Excellent
+CUST0059,Deepa Patla,57,Mechanical Engineer,47973,27161,1295001,5012,752,10,Yes,199,Average,Chennai,0.1,2.25,80,Excellent
+CUST0060,Guneet Chana,54,Farmer,248278,153853,2383013,43437,795,6,No,97,Good,Ahmedabad,0.17,0.8,95,Excellent
+CUST0061,Lohit Nair,33,Farmer,232503,88979,1880579,29842,591,18,No,192,Average,Jaipur,0.13,0.67,78,Good
+CUST0062,Tejas Bajaj,55,Data Analyst,110057,63833,2274820,40630,350,14,No,115,Poor,Jaipur,0.37,1.72,69,Good
+CUST0063,Bhavani Bera,31,Doctor,208526,105857,1871120,73018,841,15,Yes,35,Good,Pune,0.35,0.75,90,Excellent
+CUST0064,Zarna Sani,31,Software Engineer,237761,116808,896336,29271,619,25,No,158,Good,Chennai,0.12,0.31,85,Excellent
+CUST0065,Suhani Nagarajan,56,Government Employee,46499,18186,1304135,4537,323,32,No,69,Good,Jaipur,0.1,2.34,70,Good
+CUST0066,Amol Nagi,40,Mechanical Engineer,42620,19200,223320,7582,652,3,Yes,216,Poor,Mumbai,0.18,0.44,53,Average
+CUST0067,Widisha Basak,26,Government Employee,170323,86430,1515936,25650,682,28,No,234,Poor,Ahmedabad,0.15,0.74,81,Excellent
+CUST0068,Bhavini Puri,47,Bank Employee,55651,21019,1681466,15828,647,4,No,329,Poor,Kolkata,0.28,2.52,63,Average
+CUST0069,Finn Yohannan,24,Mechanical Engineer,232875,133863,2735619,31656,766,15,No,347,Good,Ahmedabad,0.14,0.98,97,Excellent
+CUST0070,Yashica Apte,36,Doctor,243122,181515,1460326,49869,608,35,Yes,44,Average,Ahmedabad,0.21,0.5,77,Good
+CUST0071,Nilima Shroff,27,Lawyer,94515,29504,2191666,14633,409,32,No,28,Good,Ahmedabad,0.15,1.93,75,Good
+CUST0072,Baljiwan Sankar,44,Sales Executive,65539,43224,1934556,10776,481,17,Yes,270,Average,Hyderabad,0.16,2.46,70,Good
+CUST0073,Omaja Panchal,33,Doctor,167404,100205,2018818,58368,425,7,No,42,Poor,Hyderabad,0.35,1.0,67,Good
+CUST0074,Nachiket Kata,23,Student,100050,64212,1183509,33799,719,35,No,253,Good,Chennai,0.34,0.99,86,Excellent
+CUST0075,Anmol Krishnan,40,Lawyer,157574,119760,2036378,27302,717,14,No,210,Poor,Jaipur,0.17,1.08,89,Excellent
+CUST0076,Saumya Ahuja,45,Lawyer,66061,22985,2059108,25244,366,19,No,252,Poor,Coimbatore,0.38,2.6,64,Average
+CUST0077,Nidra Tak,33,Mechanical Engineer,92144,72905,1437990,21801,872,30,No,166,Poor,Bangalore,0.24,1.3,88,Excellent
+CUST0078,Yoshita Yogi,28,Civil Engineer,156206,62301,2514558,6102,418,33,No,395,Average,Pune,0.04,1.34,78,Good
+CUST0079,Dipta Garde,51,Data Analyst,203696,86254,84496,21256,722,6,Yes,19,Poor,Coimbatore,0.1,0.03,69,Good
+CUST0080,Nimrat Roy,33,Doctor,238418,115164,540264,28742,443,19,Yes,68,Poor,Coimbatore,0.12,0.19,68,Good
+CUST0081,Reva Goda,58,Mechanical Engineer,114274,71087,507343,27686,816,29,No,327,Average,Kolkata,0.24,0.37,90,Excellent
+CUST0082,Xiti Gola,54,Designer,60797,24097,2868240,927,720,27,Yes,319,Poor,Ahmedabad,0.02,3.93,81,Excellent
+CUST0083,Sara Sachar,57,Software Engineer,205771,74989,1880361,81825,672,8,No,270,Good,Hyderabad,0.4,0.76,71,Good
+CUST0084,Ethan Dhar,54,Farmer,109051,58645,2102776,35962,537,0,Yes,236,Good,Pune,0.33,1.61,62,Average
+CUST0085,George Sarkar,47,Electrician,86684,68648,115239,27199,338,35,Yes,143,Poor,Delhi,0.31,0.11,51,Average
+CUST0086,Falguni Vora,46,Lawyer,180776,61356,2569048,24954,593,1,No,373,Good,Mumbai,0.14,1.18,72,Good
+CUST0087,Vincent Soni,27,Sales Executive,185260,67933,1661463,7640,446,3,No,137,Good,Jaipur,0.04,0.75,75,Good
+CUST0088,Dalaja Sagar,52,Farmer,197880,82048,2900761,36812,556,5,Yes,255,Good,Ahmedabad,0.19,1.22,72,Good
+CUST0089,Akshay Taneja,48,Data Analyst,211712,118690,1062215,31027,338,25,Yes,128,Average,Chennai,0.15,0.42,75,Good
+CUST0090,Abdul Dugar,23,Doctor,81979,45338,1425989,7341,464,27,Yes,191,Good,Hyderabad,0.09,1.45,72,Good
+CUST0091,Adweta Aggarwal,58,Electrician,176968,72593,2296945,8987,645,4,No,49,Average,Ahmedabad,0.05,1.08,78,Good
+CUST0092,Yauvani Patil,36,Civil Engineer,82366,59017,869460,18839,660,1,No,202,Average,Bangalore,0.23,0.88,67,Good
+CUST0093,Rachit Bajwa,56,Farmer,109479,50082,223394,31722,638,12,Yes,300,Poor,Mumbai,0.29,0.17,65,Good
+CUST0094,Ijaya Savant,57,Student,60784,33870,1230107,19506,693,10,Yes,363,Average,Hyderabad,0.32,1.69,66,Good
+CUST0095,Dayamai Bhakta,50,Business,139252,49765,1318925,19730,878,22,Yes,374,Average,Jaipur,0.14,0.79,95,Excellent
+CUST0096,Saanvi Behl,31,Lawyer,79193,40536,2163622,7990,581,12,Yes,143,Poor,Chennai,0.1,2.28,68,Good
+CUST0097,Anthony Savant,25,Civil Engineer,234513,75359,2319591,66559,850,20,No,312,Average,Chennai,0.28,0.82,95,Excellent
+CUST0098,Andrew Soni,28,Government Employee,184326,78544,659445,46137,660,3,No,368,Average,Kolkata,0.25,0.3,70,Good
+CUST0099,Warda Sur,60,Student,54247,37123,472735,20169,521,27,Yes,58,Good,Kolkata,0.37,0.73,55,Average
+CUST0100,Upasna Ahuja,44,Software Engineer,92823,56589,432505,24821,893,3,No,133,Poor,Coimbatore,0.27,0.39,78,Good
+CUST0101,Triveni Majumdar,23,Software Engineer,138497,85084,1141316,40103,814,33,Yes,278,Poor,Bangalore,0.29,0.69,90,Excellent
+CUST0102,Akshay Korpal,53,Teacher,143117,90163,1954710,54170,756,22,No,80,Average,Pune,0.38,1.14,88,Excellent
+CUST0103,Anusha Bhardwaj,57,Lawyer,198439,62496,1531849,37975,354,7,No,343,Good,Coimbatore,0.19,0.64,78,Good
+CUST0104,Anay Goel,42,Mechanical Engineer,179861,75893,766683,23059,704,22,Yes,394,Average,Jaipur,0.13,0.36,83,Excellent
+CUST0105,Udarsh Brahmbhatt,22,Mechanical Engineer,227652,95655,2644017,398,504,29,No,153,Average,Hyderabad,0.0,0.97,78,Good
+CUST0106,Ronith Parekh,28,Doctor,137076,61692,1938763,23720,529,14,No,236,Average,Ahmedabad,0.17,1.18,78,Good
+CUST0107,Urvi Shroff,29,Student,70661,22599,85825,14434,677,28,No,114,Poor,Hyderabad,0.2,0.1,58,Average
+CUST0108,Orinder Tak,28,Designer,184022,138966,2725248,67870,863,27,No,54,Average,Ahmedabad,0.37,1.23,91,Excellent
+CUST0109,Anika Oak,32,Designer,248293,143437,2249032,38436,834,16,No,359,Poor,Coimbatore,0.15,0.75,96,Excellent
+CUST0110,Chakradev Iyer,29,Lawyer,69039,37593,2815255,13880,473,4,Yes,210,Good,Ahmedabad,0.2,3.4,64,Average
+CUST0111,Pranit Lala,40,Bank Employee,163069,121963,880497,42377,515,31,No,163,Average,Bangalore,0.26,0.45,75,Good
+CUST0112,Yashodhara Sagar,54,Business,108653,39014,923804,25101,781,12,No,14,Average,Mumbai,0.23,0.71,92,Excellent
+CUST0113,Garima Raman,23,Government Employee,227827,121995,1144833,36943,722,32,No,345,Poor,Hyderabad,0.16,0.42,89,Excellent
+CUST0114,Naksh Kuruvilla,44,Government Employee,162618,108798,607364,19347,586,17,No,58,Average,Coimbatore,0.12,0.31,73,Good
+CUST0115,Nilima Bansal,40,Government Employee,82381,62053,1031483,29126,417,7,No,360,Average,Delhi,0.35,1.04,64,Average
+CUST0116,Daksh Bajwa,28,Doctor,72851,48083,104347,26714,586,7,No,391,Average,Jaipur,0.37,0.12,54,Average
+CUST0117,Nitara Trivedi,37,Electrician,116541,78656,578051,24442,729,24,No,41,Poor,Pune,0.21,0.41,81,Excellent
+CUST0118,Krisha Vala,60,Designer,31209,23353,287525,7047,680,23,Yes,211,Average,Pune,0.23,0.77,57,Average
+CUST0119,Ekavir Iyer,21,Lawyer,66487,21941,1336774,2406,650,8,No,239,Good,Delhi,0.04,1.68,78,Good
+CUST0120,Jonathan Sengupta,27,Sales Executive,185539,142500,1567786,38966,365,24,No,223,Poor,Delhi,0.21,0.7,73,Good
+CUST0121,Divya Narasimhan,33,Teacher,192697,106523,1874374,13551,380,32,No,96,Poor,Ahmedabad,0.07,0.81,76,Good
+CUST0122,Idika Guha,34,Doctor,56155,31580,1609979,15356,426,22,Yes,40,Average,Coimbatore,0.27,2.39,62,Average
+CUST0123,Kabir Gill,60,Government Employee,40516,30736,1569028,4445,582,29,No,245,Average,Mumbai,0.11,3.23,68,Good
+CUST0124,Dayita Nair,25,Sales Executive,48126,37624,2810050,10831,468,7,No,20,Good,Chennai,0.23,4.87,65,Good
+CUST0125,Ati Nanda,46,Business,227129,81660,2175377,22498,402,20,Yes,133,Average,Coimbatore,0.1,0.8,75,Good
+CUST0126,Laban Agrawal,58,Mechanical Engineer,242730,190598,2521501,91456,357,6,Yes,65,Average,Bangalore,0.38,0.87,66,Good
+CUST0127,Rayaan Sarin,50,Electrician,65520,45525,224271,3087,743,32,Yes,31,Poor,Ahmedabad,0.05,0.29,71,Good
+CUST0128,Raghav Nair,38,Data Analyst,46058,21799,2143885,8511,813,33,Yes,301,Good,Kolkata,0.18,3.88,87,Excellent
+CUST0129,Hema Sibal,28,Sales Executive,22029,10596,318193,4421,636,12,Yes,287,Poor,Bangalore,0.2,1.2,55,Average
+CUST0130,Manya Narasimhan,32,Doctor,110697,79187,459506,8030,726,8,Yes,190,Average,Pune,0.07,0.35,81,Excellent
+CUST0131,Adya Nagarajan,53,Electrician,166657,83730,211649,46300,311,17,No,337,Poor,Bangalore,0.28,0.11,63,Average
+CUST0132,Michael Mukherjee,23,Business,76383,25582,2869745,6187,468,27,No,358,Average,Hyderabad,0.08,3.13,73,Good
+CUST0133,Ati Swamy,57,Government Employee,248360,162906,991119,79151,664,21,No,230,Poor,Chennai,0.32,0.33,74,Good
+CUST0134,Vedhika Merchant,49,Government Employee,189436,59622,2760073,45803,699,17,Yes,380,Poor,Jaipur,0.24,1.21,75,Good
+CUST0135,Imaran Rama,29,Bank Employee,224892,163722,83586,81502,720,4,No,203,Poor,Ahmedabad,0.36,0.03,62,Average
+CUST0136,Wahab Loyal,53,Lawyer,210112,90081,1271173,8654,400,5,Yes,238,Poor,Bangalore,0.04,0.5,68,Good
+CUST0137,Omaja Karpe,30,Civil Engineer,72301,56392,812736,26751,678,30,Yes,56,Good,Mumbai,0.37,0.94,70,Good
+CUST0138,Alexander Bath,31,Student,247282,129101,1872843,49663,580,23,Yes,218,Poor,Mumbai,0.2,0.63,70,Good
+CUST0139,Charvi Kadakia,38,Farmer,159687,103227,614487,14685,703,23,Yes,57,Average,Pune,0.09,0.32,83,Excellent
+CUST0140,Saksham Raghavan,47,Lawyer,90562,39009,2519912,608,343,10,No,10,Poor,Bangalore,0.01,2.32,69,Good
+CUST0141,Sai Krishnan,23,Data Analyst,90049,65342,2354307,35118,497,9,No,111,Good,Hyderabad,0.39,2.18,66,Good
+CUST0142,Anamika Mangat,43,Sales Executive,110807,84667,1396982,20270,598,17,No,133,Poor,Bangalore,0.18,1.05,76,Good
+CUST0143,Dhriti Bath,35,Bank Employee,26345,16932,1622245,4565,587,19,No,336,Poor,Kolkata,0.17,5.13,61,Average
+CUST0144,Bishakha Pradhan,49,Data Analyst,155203,118059,2531058,11712,676,21,No,97,Good,Delhi,0.08,1.36,85,Excellent
+CUST0145,Yagnesh Kalita,23,Lawyer,132365,55269,2491706,41811,347,15,No,357,Good,Chennai,0.32,1.57,73,Good
+CUST0146,Pooja Anne,38,Bank Employee,67988,53280,1831661,26013,809,10,No,359,Poor,Hyderabad,0.38,2.25,82,Excellent
+CUST0147,Gautami Ramanathan,23,Sales Executive,74522,26690,1010046,15956,725,15,Yes,81,Average,Jaipur,0.21,1.13,80,Excellent
+CUST0148,Zaid Rai,24,Software Engineer,245931,107030,1796685,10658,779,27,No,170,Average,Delhi,0.04,0.61,95,Excellent
+CUST0149,Daksh Menon,44,Doctor,34086,13464,2999738,2648,689,16,No,339,Good,Pune,0.08,7.33,75,Good
+CUST0150,Mekhala Thakkar,50,Mechanical Engineer,228317,173429,2812419,17012,812,0,Yes,104,Average,Kolkata,0.07,1.03,87,Excellent
+CUST0151,Darika Ratti,57,Student,244350,109925,664323,52925,561,20,No,210,Average,Kolkata,0.22,0.23,70,Good
+CUST0152,Kala Narain,33,Farmer,215572,68586,414769,83016,581,29,No,316,Good,Jaipur,0.39,0.16,68,Good
+CUST0153,Raghav Salvi,28,Doctor,221888,88068,1857721,59325,801,32,No,189,Poor,Hyderabad,0.27,0.7,93,Excellent
+CUST0154,Elijah Mukherjee,42,Civil Engineer,206301,109273,2702200,66637,720,0,No,157,Poor,Mumbai,0.32,1.09,74,Good
+CUST0155,Vihaan Dhar,34,Electrician,62283,36396,698407,20445,458,24,No,271,Poor,Hyderabad,0.33,0.93,59,Average
+CUST0156,Hitesh Saraf,22,Data Analyst,123679,65688,366355,4807,845,33,No,292,Average,Delhi,0.04,0.25,93,Excellent
+CUST0157,Elijah Yohannan,29,Doctor,30911,10222,2466437,10248,785,29,No,369,Poor,Jaipur,0.33,6.65,76,Good
+CUST0158,Maya Sabharwal,55,Business,211859,101214,2856688,32243,448,13,Yes,119,Poor,Coimbatore,0.15,1.12,73,Good
+CUST0159,Niharika Dubey,53,Business,167102,114843,2900894,26468,815,30,No,273,Good,Pune,0.16,1.45,100,Excellent
+CUST0160,Gaurav Sagar,50,Designer,163058,84130,133426,8493,449,35,Yes,31,Good,Bangalore,0.05,0.07,67,Good
+CUST0161,Xavier Acharya,53,Civil Engineer,97614,58794,960130,22991,540,24,No,345,Good,Coimbatore,0.24,0.82,72,Good
+CUST0162,Vritti Ghose,50,Doctor,232121,144669,1539526,73234,806,12,No,304,Poor,Kolkata,0.32,0.55,89,Excellent
+CUST0163,Naksh Dora,39,Government Employee,104248,59512,2027564,15102,562,27,Yes,232,Good,Mumbai,0.14,1.62,77,Good
+CUST0164,Ekta Chahal,26,Sales Executive,82817,50497,173002,17299,664,32,No,298,Good,Mumbai,0.21,0.17,67,Good
+CUST0165,Chakradhar Anne,30,Business,60423,40975,820474,6862,864,35,No,399,Average,Hyderabad,0.11,1.13,93,Excellent
+CUST0166,Eshana Bumb,36,Government Employee,121887,42872,1354665,22561,819,0,No,229,Poor,Chennai,0.19,0.93,88,Excellent
+CUST0167,Charvi Mallick,27,Farmer,243734,156634,1973031,95154,334,25,Yes,152,Average,Pune,0.39,0.67,68,Good
+CUST0168,Agastya Bedi,35,Data Analyst,164648,54320,2973877,39639,799,35,Yes,256,Good,Chennai,0.24,1.51,91,Excellent
+CUST0169,Yochana Khalsa,46,Electrician,67013,27933,1202010,11602,833,15,No,154,Good,Coimbatore,0.17,1.49,95,Excellent
+CUST0170,Ishwar Behl,49,Sales Executive,101894,50996,2268634,34355,844,15,Yes,61,Good,Coimbatore,0.34,1.86,90,Excellent
+CUST0171,Vihaan Nigam,29,Sales Executive,65992,47417,975387,20395,592,12,Yes,306,Good,Coimbatore,0.31,1.23,65,Good
+CUST0172,Libni Brahmbhatt,57,Business,225869,73100,1817744,4910,870,32,No,392,Average,Kolkata,0.02,0.67,98,Excellent
+CUST0173,Darsh Sekhon,39,Teacher,142084,47879,1740818,44567,409,11,No,297,Good,Jaipur,0.31,1.02,73,Good
+CUST0174,Dhriti Sastry,47,Designer,150485,101041,1457775,1574,797,13,Yes,338,Good,Mumbai,0.01,0.81,94,Excellent
+CUST0175,Samesh Khurana,55,Government Employee,238662,92229,2649370,33015,637,24,Yes,186,Poor,Chennai,0.14,0.93,78,Good
+CUST0176,Mugdha Kapoor,32,Bank Employee,124024,65952,1110262,21517,840,2,Yes,392,Good,Chennai,0.17,0.75,89,Excellent
+CUST0177,Anya Master,59,Civil Engineer,64330,32927,2515891,14923,365,9,No,129,Good,Pune,0.23,3.26,70,Good
+CUST0178,Ira Vasa,41,Teacher,56768,32219,2980481,19472,684,32,Yes,282,Average,Chennai,0.34,4.38,63,Average
+CUST0179,Omisha Basak,39,Lawyer,172851,122860,884857,36997,366,19,No,398,Poor,Mumbai,0.21,0.43,73,Good
+CUST0180,Darika Palla,36,Doctor,118933,71025,52166,4666,786,1,Yes,325,Average,Ahmedabad,0.04,0.04,69,Good
+CUST0181,Jeet Tiwari,24,Sales Executive,186071,60403,2607827,59779,422,5,Yes,105,Poor,Chennai,0.32,1.17,61,Average
+CUST0182,Idika Narayan,58,Designer,176929,116316,1982683,20919,397,9,No,203,Good,Mumbai,0.12,0.93,78,Good
+CUST0183,Sai Nath,55,Sales Executive,44586,15851,1413980,161,484,27,No,109,Average,Bangalore,0.0,2.64,68,Good
+CUST0184,Luke Sarkar,53,Electrician,151788,102793,2339431,22422,481,17,No,152,Good,Pune,0.15,1.28,80,Excellent
+CUST0185,Krishna Kar,28,Data Analyst,137436,57373,1868103,49732,319,23,No,30,Good,Coimbatore,0.36,1.13,73,Good
+CUST0186,Adya Ghose,25,Civil Engineer,163349,106283,2698816,50666,814,8,Yes,317,Good,Hyderabad,0.31,1.38,88,Excellent
+CUST0187,Jalsa Sharma,27,Data Analyst,233861,131471,1397717,48759,408,21,No,91,Average,Ahmedabad,0.21,0.5,75,Good
+CUST0188,Aryan Minhas,47,Data Analyst,166839,51437,2773330,39063,367,0,No,137,Average,Mumbai,0.23,1.39,67,Good
+CUST0189,Amrita Wagle,35,Designer,125441,48581,203947,7425,576,8,No,283,Poor,Mumbai,0.06,0.14,64,Average
+CUST0190,Manan Narasimhan,25,Software Engineer,221976,69196,1176199,35466,437,35,No,138,Good,Ahmedabad,0.16,0.44,80,Excellent
+CUST0191,Aradhana Chana,42,Student,226318,110785,72585,37018,791,26,No,61,Poor,Kolkata,0.16,0.03,78,Good
+CUST0192,Rachita Bir,55,Teacher,109608,40680,2787528,22645,458,12,Yes,227,Good,Pune,0.21,2.12,74,Good
+CUST0193,Brinda Wason,23,Mechanical Engineer,182397,101627,535242,42813,308,15,No,300,Average,Kolkata,0.23,0.24,70,Good
+CUST0194,Theodore Vasa,31,Mechanical Engineer,247824,118351,1495579,77108,825,12,No,146,Average,Coimbatore,0.31,0.5,91,Excellent
+CUST0195,Gopal Sathe,32,Software Engineer,225862,70507,2425920,32663,652,19,No,137,Good,Delhi,0.14,0.9,85,Excellent
+CUST0196,Hemal Sankaran,47,Software Engineer,122006,48353,2351322,14155,525,10,No,181,Good,Kolkata,0.12,1.61,78,Good
+CUST0197,Raksha Kapadia,26,Designer,123280,72802,1020978,13834,302,1,Yes,135,Poor,Mumbai,0.11,0.69,65,Good
+CUST0198,Ethan Pingle,41,Student,224976,84069,2848398,61571,784,12,No,209,Good,Kolkata,0.27,1.06,94,Excellent
+CUST0199,Pratyush Halder,51,Software Engineer,215129,171493,1108274,7738,416,4,Yes,398,Average,Jaipur,0.04,0.43,70,Good
+CUST0200,Udant Parikh,23,Civil Engineer,141009,51093,292835,7068,817,5,Yes,340,Average,Chennai,0.05,0.17,80,Excellent
+CUST0201,Finn Kar,24,Software Engineer,138061,67668,509890,31336,799,34,Yes,216,Average,Mumbai,0.23,0.31,84,Excellent
+CUST0202,Nirja Joshi,35,Electrician,90659,63445,1989706,16157,529,25,Yes,265,Average,Hyderabad,0.18,1.83,70,Good
+CUST0203,Neha Prasad,45,Business,59899,23150,160706,3581,840,10,No,147,Poor,Bangalore,0.06,0.22,74,Good
+CUST0204,Anthony Hayer,31,Sales Executive,153856,114656,1307306,39034,812,8,Yes,208,Poor,Coimbatore,0.25,0.71,88,Excellent
+CUST0205,Karan Chacko,29,Lawyer,182223,128161,959604,57155,561,3,Yes,322,Good,Delhi,0.31,0.44,65,Good
+CUST0206,Neelima Sane,51,Designer,187883,62185,1458280,38838,382,1,No,261,Good,Jaipur,0.21,0.65,69,Good
+CUST0207,Ekavir Pandya,28,Lawyer,163687,86981,2806420,25752,773,4,Yes,397,Poor,Delhi,0.16,1.43,85,Excellent
+CUST0208,Janani Subramaniam,47,Bank Employee,206307,123560,2009686,70604,599,34,No,62,Average,Mumbai,0.34,0.81,71,Good
+CUST0209,Nicholas Bal,35,Software Engineer,20339,8597,1054469,5904,535,32,No,371,Good,Bangalore,0.29,4.32,62,Average
+CUST0210,Jagvi Krishna,43,Bank Employee,94989,75547,1482449,14203,860,24,No,104,Average,Coimbatore,0.15,1.3,93,Excellent
+CUST0211,Osha Mangal,31,Bank Employee,125951,80800,1627670,12584,308,14,No,250,Average,Kolkata,0.1,1.08,78,Good
+CUST0212,Upma Verma,21,Sales Executive,165548,77721,382550,64900,311,20,No,335,Average,Chennai,0.39,0.19,66,Good
+CUST0213,Abdul Kant,35,Civil Engineer,67818,50796,1743089,11535,463,1,No,96,Average,Hyderabad,0.17,2.14,65,Good
+CUST0214,Ekalinga Yohannan,44,Student,247125,86267,848379,8844,845,6,Yes,133,Good,Ahmedabad,0.04,0.29,95,Excellent
+CUST0215,Odika Sha,45,Software Engineer,47325,15528,2000626,18891,874,19,No,204,Good,Delhi,0.4,3.52,78,Good
+CUST0216,Lekha De,56,Business,175116,57946,1693426,43193,818,26,Yes,193,Good,Bangalore,0.25,0.81,94,Excellent
+CUST0217,Tanveer Manne,52,Software Engineer,178126,74727,1308058,9718,469,22,No,158,Poor,Chennai,0.05,0.61,76,Good
+CUST0218,Pavani Butala,49,Electrician,227575,88037,1397749,56806,385,9,Yes,83,Average,Pune,0.25,0.51,70,Good
+CUST0219,Yachana Seshadri,27,Mechanical Engineer,202094,92375,932193,80252,867,31,No,278,Good,Bangalore,0.4,0.38,88,Excellent
+CUST0220,Jairaj Raj,40,Software Engineer,99339,55868,2958180,11242,456,6,No,196,Average,Kolkata,0.11,2.48,71,Good
+CUST0221,Qushi Chad,40,Designer,67013,39822,1749802,23814,361,22,Yes,58,Poor,Kolkata,0.36,2.18,61,Average
+CUST0222,Christopher Jhaveri,59,Designer,59675,36009,1960252,1470,452,23,Yes,345,Poor,Chennai,0.02,2.74,63,Average
+CUST0223,Vivaan Sen,56,Teacher,67171,45403,2208306,10854,659,34,Yes,314,Poor,Kolkata,0.16,2.74,73,Good
+CUST0224,Dayita Majumdar,30,Lawyer,209219,112364,1617467,36046,707,9,Yes,81,Poor,Pune,0.17,0.64,84,Excellent
+CUST0225,Laksh Chadha,37,Data Analyst,141958,62089,2640580,43623,733,27,No,13,Good,Coimbatore,0.31,1.55,86,Excellent
+CUST0226,Faqid Wadhwa,29,Farmer,172410,127752,2162911,24260,752,22,No,127,Good,Hyderabad,0.14,1.05,97,Excellent
+CUST0227,Jatin Majumdar,47,Electrician,136894,96851,174063,33729,777,21,No,297,Good,Jaipur,0.25,0.11,84,Excellent
+CUST0228,Anusha Sengupta,26,Lawyer,106114,55385,467219,13548,684,10,Yes,239,Poor,Pune,0.13,0.37,71,Good
+CUST0229,Gautami Kothari,27,Sales Executive,165362,111371,1335805,48103,317,2,Yes,157,Average,Hyderabad,0.29,0.67,64,Average
+CUST0230,Dalaja Mital,52,Designer,117103,37518,2960593,26432,756,19,Yes,178,Poor,Kolkata,0.23,2.11,87,Excellent
+CUST0231,William Sidhu,52,Farmer,143998,98560,1561425,1136,793,26,No,10,Good,Hyderabad,0.01,0.9,97,Excellent
+CUST0232,Tara Dhar,29,Electrician,220289,91041,1140186,57177,551,11,Yes,204,Poor,Delhi,0.26,0.43,70,Good
+CUST0233,Omisha Rout,48,Electrician,128735,40649,2418431,32148,499,23,Yes,76,Poor,Chennai,0.25,1.57,70,Good
+CUST0234,Anjali Chokshi,24,Electrician,141639,54400,1080182,49982,865,30,No,132,Poor,Coimbatore,0.35,0.64,89,Excellent
+CUST0235,Yasti Datta,24,Doctor,210861,139436,2241330,25834,436,14,Yes,115,Good,Ahmedabad,0.12,0.89,77,Good
+CUST0236,Upma Wable,37,Designer,118839,63158,1247446,12128,887,18,Yes,179,Poor,Chennai,0.1,0.87,93,Excellent
+CUST0237,Oliver Bobal,32,Electrician,156357,118815,1767874,9467,877,35,No,268,Good,Bangalore,0.06,0.94,100,Excellent
+CUST0238,Jhalak Srinivasan,34,Government Employee,95396,43816,1008509,19125,444,35,Yes,329,Poor,Ahmedabad,0.2,0.88,65,Good
+CUST0239,Chavvi Sinha,35,Bank Employee,93477,72624,852915,1137,716,33,No,324,Average,Hyderabad,0.01,0.76,86,Excellent
+CUST0240,Ekanta Padmanabhan,30,Data Analyst,95294,46140,2534636,27936,711,17,No,365,Good,Hyderabad,0.29,2.22,85,Excellent
+CUST0241,Widisha Johal,57,Software Engineer,242669,106604,2317539,68011,880,2,Yes,129,Poor,Hyderabad,0.28,0.8,82,Excellent
+CUST0242,Yashoda Yadav,51,Government Employee,106450,44113,819498,30583,842,15,No,126,Good,Delhi,0.29,0.64,97,Excellent
+CUST0243,Widisha Karnik,24,Bank Employee,182549,131658,654146,40730,888,26,Yes,102,Average,Pune,0.22,0.3,87,Excellent
+CUST0244,Darsh Cheema,25,Government Employee,149275,111950,2446474,24022,869,22,No,364,Average,Ahmedabad,0.16,1.37,98,Excellent
+CUST0245,Kala Mutti,50,Government Employee,94302,59179,1713550,23139,846,6,Yes,126,Poor,Ahmedabad,0.25,1.51,83,Excellent
+CUST0246,Nathaniel Mohan,23,Lawyer,172093,130375,54098,20225,849,34,No,31,Poor,Hyderabad,0.12,0.03,81,Excellent
+CUST0247,Charita Thaker,49,Bank Employee,157457,77468,1595761,57533,681,33,No,165,Poor,Kolkata,0.37,0.84,74,Good
+CUST0248,Om Wason,59,Doctor,232778,152574,2623101,3731,626,17,No,247,Average,Hyderabad,0.02,0.94,83,Excellent
+CUST0249,Ekalinga Talwar,29,Bank Employee,210416,103813,2487784,31058,505,26,No,297,Average,Bangalore,0.15,0.99,78,Good
+CUST0250,Pranit Muni,29,Mechanical Engineer,228980,130562,2680643,79450,642,21,Yes,31,Poor,Ahmedabad,0.35,0.98,71,Good
+CUST0251,Max Handa,59,Doctor,90447,27521,653007,12887,567,15,No,73,Poor,Chennai,0.14,0.6,66,Good
+CUST0252,Yashica Sanghvi,45,Designer,147836,55564,838537,8381,655,14,Yes,57,Poor,Bangalore,0.06,0.47,78,Good
+CUST0253,Shravya Rout,57,Teacher,133617,42904,2686475,41358,696,29,Yes,235,Average,Pune,0.31,1.68,73,Good
+CUST0254,Darpan Dayal,22,Electrician,154799,83291,261500,2607,774,30,No,85,Good,Ahmedabad,0.02,0.14,87,Excellent
+CUST0255,Pranav Joshi,35,Sales Executive,41409,20840,2044430,5472,864,32,Yes,188,Poor,Mumbai,0.13,4.11,83,Excellent
+CUST0256,Anusha Vohra,27,Civil Engineer,187868,81082,2428705,8818,782,12,No,155,Poor,Jaipur,0.05,1.08,93,Excellent
+CUST0257,Thomas Singh,46,Electrician,34104,21433,2299155,11007,547,33,No,248,Poor,Pune,0.32,5.62,59,Average
+CUST0258,Ekani Ahluwalia,46,Data Analyst,249824,128065,654128,23617,894,31,No,396,Poor,Mumbai,0.09,0.22,91,Excellent
+CUST0259,Sathvik Wable,50,Software Engineer,94873,70775,1557634,13189,577,22,Yes,128,Poor,Delhi,0.14,1.37,68,Good
+CUST0260,Rehaan Dhingra,42,Farmer,53378,21296,1931779,5927,352,23,No,192,Average,Kolkata,0.11,3.02,68,Good
+CUST0261,Devika Wadhwa,53,Bank Employee,23523,14744,2990861,3173,609,14,No,377,Poor,Kolkata,0.13,10.6,66,Good
+CUST0262,Chakrika Naik,43,Government Employee,117726,92607,2808887,2283,465,10,Yes,11,Good,Bangalore,0.02,1.99,75,Good
+CUST0263,Chaaya Chanda,42,Bank Employee,216939,94077,1882060,22535,467,28,No,51,Average,Ahmedabad,0.1,0.72,78,Good
+CUST0264,Ethan Mangat,48,Bank Employee,178081,105573,2847507,52603,329,14,No,86,Poor,Chennai,0.3,1.33,69,Good
+CUST0265,Harita Setty,34,Farmer,145298,96706,1969052,56315,609,12,No,217,Average,Chennai,0.39,1.13,76,Good
+CUST0266,Qarin Bali,30,Data Analyst,50493,22851,1329170,12887,412,33,No,249,Good,Pune,0.26,2.19,67,Good
+CUST0267,Libni Babu,56,Lawyer,65673,42770,1401757,21099,330,32,No,169,Poor,Bangalore,0.32,1.78,64,Average
+CUST0268,Idika De,44,Mechanical Engineer,235509,132599,2453317,22903,759,26,Yes,208,Good,Mumbai,0.1,0.87,94,Excellent
+CUST0269,Abha Sama,24,Sales Executive,202181,123439,1739870,62580,576,2,Yes,345,Average,Bangalore,0.31,0.72,60,Average
+CUST0270,Dhruv Bath,47,Lawyer,154313,50914,2996823,52072,680,0,Yes,104,Average,Chennai,0.34,1.62,65,Good
+CUST0271,Hamsini Pal,60,Software Engineer,86282,57260,344046,374,357,34,Yes,331,Good,Ahmedabad,0.0,0.33,67,Good
+CUST0272,Ishaan Narain,58,Data Analyst,110365,39532,2921164,35684,644,29,Yes,166,Average,Bangalore,0.32,2.21,73,Good
+CUST0273,Isha Raja,42,Electrician,219431,119963,2528385,5874,522,13,No,111,Poor,Pune,0.03,0.96,76,Good
+CUST0274,Bina Karnik,43,Software Engineer,113289,53195,2319407,39647,437,2,No,341,Good,Kolkata,0.35,1.71,65,Good
+CUST0275,Lipika Khurana,45,Software Engineer,105941,42985,2324259,35154,692,23,No,45,Average,Mumbai,0.33,1.83,76,Good
+CUST0276,Nisha Mahal,53,Mechanical Engineer,90623,66378,656552,22754,673,15,No,338,Poor,Bangalore,0.25,0.6,68,Good
+CUST0277,Dipta Dyal,59,Teacher,206168,63891,1661809,43809,509,27,Yes,29,Good,Pune,0.21,0.67,74,Good
+CUST0278,Aarnav Chowdhury,57,Business,97130,46811,2464924,21285,548,33,No,237,Good,Delhi,0.22,2.11,72,Good
+CUST0279,Deepa Misra,50,Teacher,144674,86113,2934718,34557,813,27,No,38,Average,Ahmedabad,0.24,1.69,95,Excellent
+CUST0280,Dalaja Mall,41,Electrician,95441,31264,2667217,4440,804,10,Yes,209,Poor,Delhi,0.05,2.33,86,Excellent
+CUST0281,Charan Sachdev,37,Business,115499,68145,552525,129,609,34,No,185,Poor,Mumbai,0.0,0.4,76,Good
+CUST0282,Zilmil Hans,32,Business,189311,133928,2798926,58723,308,24,Yes,193,Good,Pune,0.31,1.23,70,Good
+CUST0283,Isaiah Bhatnagar,48,Electrician,44201,32118,997801,11843,753,18,No,362,Good,Chennai,0.27,1.88,84,Excellent
+CUST0284,Jagrati Ahuja,46,Lawyer,134287,81523,2828390,46844,720,8,No,248,Poor,Bangalore,0.35,1.76,80,Excellent
+CUST0285,Falan Khatri,39,Software Engineer,100171,32490,1485078,9475,600,8,No,378,Average,Chennai,0.09,1.24,81,Excellent
+CUST0286,Udant Babu,53,Doctor,145303,115325,486634,22432,370,6,No,398,Good,Mumbai,0.15,0.28,73,Good
+CUST0287,Jalsa Srinivasan,36,Data Analyst,87363,34320,1480371,32191,349,26,Yes,215,Average,Delhi,0.37,1.41,63,Average
+CUST0288,Yashodhara Borah,54,Mechanical Engineer,40848,14405,2996764,12641,519,10,No,229,Good,Bangalore,0.31,6.11,61,Average
+CUST0289,Mitali Dhar,44,Farmer,180390,80012,1010485,37148,770,17,Yes,363,Good,Ahmedabad,0.21,0.47,91,Excellent
+CUST0290,Wriddhish Ram,47,Electrician,219099,103620,1479609,17319,452,13,Yes,237,Poor,Delhi,0.08,0.56,73,Good
+CUST0291,Eta Chand,51,Business,45375,35529,850413,6866,654,28,Yes,205,Poor,Coimbatore,0.15,1.56,68,Good
+CUST0292,Netra Batra,41,Designer,114106,55349,2317548,17813,871,12,No,150,Poor,Ahmedabad,0.16,1.69,96,Excellent
+CUST0293,Neelima Ravel,57,Business,178044,62132,2828973,65068,360,28,Yes,43,Average,Chennai,0.37,1.32,68,Good
+CUST0294,Devansh Prakash,42,Data Analyst,43466,27309,385209,15147,885,3,Yes,254,Poor,Kolkata,0.35,0.74,66,Good
+CUST0295,Gagan Pingle,43,Student,75347,33047,2704681,17341,464,2,No,376,Poor,Pune,0.23,2.99,60,Average
+CUST0296,Niharika Ravi,57,Doctor,126552,88866,2553535,8670,413,0,Yes,310,Poor,Hyderabad,0.07,1.68,65,Good
+CUST0297,Pahal Tripathi,36,Civil Engineer,246006,100182,1969056,6138,546,32,No,23,Poor,Jaipur,0.02,0.67,76,Good
+CUST0298,Warjas Bali,49,Software Engineer,223151,145767,283673,76029,617,21,Yes,320,Average,Jaipur,0.34,0.11,63,Average
+CUST0299,Wishi Magar,41,Data Analyst,83094,61905,963140,29340,884,14,No,46,Good,Pune,0.35,0.97,88,Excellent
+CUST0300,Tripti Nori,21,Designer,21762,15792,1609849,1763,463,33,No,293,Average,Delhi,0.08,6.16,63,Average
+CUST0301,Ekiya Cherian,43,Data Analyst,171914,85070,2141122,42582,820,0,Yes,21,Average,Coimbatore,0.25,1.04,84,Excellent
+CUST0302,Odika Seshadri,30,Lawyer,188151,88212,1714081,15464,432,29,No,169,Poor,Jaipur,0.08,0.76,76,Good
+CUST0303,Aryan Trivedi,56,Farmer,215001,110984,2757525,85328,546,2,Yes,56,Poor,Delhi,0.4,1.07,53,Average
+CUST0304,Chakradhar Swamy,28,Civil Engineer,105551,54910,2394208,6678,678,29,Yes,171,Poor,Ahmedabad,0.06,1.89,78,Good
+CUST0305,Varsha Bedi,24,Electrician,237673,73451,2902781,13474,745,30,Yes,132,Good,Hyderabad,0.06,1.02,90,Excellent
+CUST0306,Wyatt Suresh,53,Student,136255,45702,1438379,51183,781,12,Yes,38,Poor,Chennai,0.38,0.88,83,Excellent
+CUST0307,Vivaan Issac,35,Government Employee,104890,36341,1256122,37977,704,19,Yes,358,Good,Bangalore,0.36,1.0,83,Excellent
+CUST0308,Chakradev Krish,59,Teacher,129493,71586,247889,48369,647,10,No,46,Average,Chennai,0.37,0.16,64,Average
+CUST0309,Advaith Varghese,55,Student,201755,81588,686709,15337,892,7,Yes,103,Good,Jaipur,0.08,0.28,90,Excellent
+CUST0310,Anthony Saha,44,Data Analyst,60296,35870,259898,20556,851,12,No,388,Poor,Jaipur,0.34,0.36,74,Good
+CUST0311,Onveer Bal,53,Sales Executive,207589,88858,119933,27977,879,24,Yes,334,Average,Pune,0.13,0.05,85,Excellent
+CUST0312,Kritika Manda,35,Software Engineer,217379,109401,2681274,1150,462,34,No,59,Poor,Mumbai,0.01,1.03,76,Good
+CUST0313,Aarush Dutt,47,Civil Engineer,32526,19569,634473,12769,833,21,Yes,251,Good,Ahmedabad,0.39,1.63,75,Good
+CUST0314,Ekansh Sahota,48,Sales Executive,93055,32354,625939,29775,749,0,Yes,109,Good,Jaipur,0.32,0.56,65,Good
+CUST0315,Naveen Sachar,56,Government Employee,100522,42232,991924,12300,532,28,Yes,313,Poor,Delhi,0.12,0.82,73,Good
+CUST0316,Falguni Prabhakar,41,Farmer,196895,98974,1535685,53325,568,5,Yes,190,Good,Jaipur,0.27,0.65,69,Good
+CUST0317,Manya Lanka,31,Teacher,243806,105056,480350,35664,364,6,No,27,Good,Ahmedabad,0.15,0.16,73,Good
+CUST0318,Idika Nagarajan,46,Sales Executive,115736,56048,2704296,13435,540,2,No,226,Good,Ahmedabad,0.12,1.95,72,Good
+CUST0319,Aradhana Virk,59,Farmer,244416,176893,2312041,37765,559,25,No,136,Average,Chennai,0.15,0.79,78,Good
+CUST0320,Riya Mani,26,Government Employee,170523,117673,393865,39163,811,20,No,18,Good,Pune,0.23,0.19,92,Excellent
+CUST0321,Yoshita Randhawa,28,Sales Executive,148486,92660,2967736,13609,560,14,No,279,Poor,Ahmedabad,0.09,1.67,76,Good
+CUST0322,Finn Swaminathan,31,Civil Engineer,195675,155799,1559601,59035,397,27,Yes,327,Poor,Mumbai,0.3,0.66,66,Good
+CUST0323,Damini Soman,51,Lawyer,116342,79243,453132,16322,750,4,No,146,Good,Delhi,0.14,0.32,87,Excellent
+CUST0324,Krishna Majumdar,48,Farmer,162373,107773,799486,25954,505,8,Yes,368,Good,Pune,0.16,0.41,70,Good
+CUST0325,Yashvi Chaudhry,29,Business,159577,111351,1290025,23568,704,34,Yes,301,Average,Jaipur,0.15,0.67,88,Excellent
+CUST0326,Amol Choudhry,46,Mechanical Engineer,97099,67148,63744,25578,755,1,No,214,Average,Coimbatore,0.26,0.05,64,Average
+CUST0327,Janani Din,22,Student,58743,32195,527463,22760,372,16,Yes,342,Average,Jaipur,0.39,0.75,53,Average
+CUST0328,Upkaar Morar,51,Designer,206197,161637,1667846,57485,421,13,No,386,Average,Chennai,0.28,0.67,75,Good
+CUST0329,Pranav Barman,26,Sales Executive,52072,27260,723966,18694,762,15,No,236,Poor,Coimbatore,0.36,1.16,71,Good
+CUST0330,Victor Deol,60,Mechanical Engineer,173705,82774,649400,64117,453,18,No,345,Good,Bangalore,0.37,0.31,68,Good
+CUST0331,Nachiket Bala,27,Government Employee,99370,74263,2866886,13706,873,30,Yes,334,Good,Chennai,0.14,2.4,92,Excellent
+CUST0332,Avi Soni,42,Farmer,160576,99408,2932660,48849,324,13,No,17,Poor,Ahmedabad,0.3,1.52,69,Good
+CUST0333,Urvashi Chand,52,Lawyer,108126,35716,1659743,22052,831,2,No,244,Good,Kolkata,0.2,1.28,89,Excellent
+CUST0334,Siddharth Desai,43,Bank Employee,104645,67843,502350,1630,623,12,No,30,Good,Delhi,0.02,0.4,80,Excellent
+CUST0335,Eta Chacko,46,Student,168781,55865,710801,8635,676,32,No,352,Average,Mumbai,0.05,0.35,78,Good
+CUST0336,Nachiket Dutt,22,Electrician,36486,16213,101614,10070,386,8,No,370,Average,Hyderabad,0.28,0.23,53,Average
+CUST0337,Lohit Om,24,Software Engineer,57955,24030,2974610,8225,656,10,No,298,Average,Coimbatore,0.14,4.28,71,Good
+CUST0338,Dipta Walia,50,Sales Executive,26518,12435,1353282,8597,417,12,No,50,Poor,Coimbatore,0.32,4.25,54,Average
+CUST0339,Abdul Das,34,Doctor,59533,24707,1261715,16498,349,27,Yes,254,Good,Coimbatore,0.28,1.77,64,Average
+CUST0340,Wyatt Apte,42,Lawyer,238805,189060,1988817,7860,861,18,No,173,Poor,Coimbatore,0.03,0.69,96,Excellent
+CUST0341,Maanav Lad,48,Software Engineer,56393,31005,1711673,9793,474,9,No,365,Average,Kolkata,0.17,2.53,66,Good
+CUST0342,Ranveer Mangal,40,Doctor,182686,89845,1702198,64469,726,15,No,128,Good,Bangalore,0.35,0.78,86,Excellent
+CUST0343,Manya Modi,47,Lawyer,115206,66970,729313,38409,798,1,Yes,399,Good,Hyderabad,0.33,0.53,74,Good
+CUST0344,Yatin Bakshi,28,Data Analyst,73530,40202,2539137,18368,846,33,No,58,Average,Bangalore,0.25,2.88,90,Excellent
+CUST0345,Rehaan Ghose,39,Lawyer,111295,86418,2980881,23775,800,2,Yes,341,Poor,Delhi,0.21,2.23,82,Excellent
+CUST0346,Baghyawati Varughese,57,Doctor,159654,67964,985793,35944,326,12,Yes,281,Good,Bangalore,0.23,0.51,74,Good
+CUST0347,Onveer Doshi,33,Data Analyst,38033,20244,89860,4582,754,27,No,395,Good,Pune,0.12,0.2,72,Good
+CUST0348,Nathaniel Cherian,51,Civil Engineer,237979,77019,2350877,54592,652,31,No,35,Good,Coimbatore,0.23,0.82,82,Excellent
+CUST0349,Baljiwan Walla,42,Government Employee,54726,31845,2197197,21572,624,21,Yes,315,Good,Kolkata,0.39,3.35,65,Good
+CUST0350,Anvi Wason,22,Student,92269,46298,1067051,30328,397,21,Yes,294,Poor,Delhi,0.33,0.96,61,Average
+CUST0351,Darika Kamdar,56,Doctor,41800,17238,2712500,3185,576,21,No,38,Average,Pune,0.08,5.41,68,Good
+CUST0352,Indrajit Loyal,28,Sales Executive,208258,82235,2738001,44583,716,4,Yes,382,Average,Coimbatore,0.21,1.1,80,Excellent
+CUST0353,Dalbir Gade,22,Sales Executive,42287,15559,1048896,7849,428,23,No,276,Average,Mumbai,0.19,2.07,68,Good
+CUST0354,Chatresh Yadav,42,Farmer,41449,25734,1197247,2550,706,29,Yes,166,Good,Jaipur,0.06,2.41,80,Excellent
+CUST0355,Upma Natarajan,57,Designer,50663,15424,2334728,14952,553,25,No,21,Poor,Pune,0.3,3.84,59,Average
+CUST0356,Manbir Dasgupta,28,Mechanical Engineer,105561,79614,2562232,12477,764,12,No,255,Average,Delhi,0.12,2.02,95,Excellent
+CUST0357,Vrishti Bail,45,Designer,66605,28395,650429,2492,361,0,Yes,211,Average,Chennai,0.04,0.81,57,Average
+CUST0358,Qasim Salvi,59,Farmer,55801,25967,1812674,20416,647,16,Yes,106,Average,Bangalore,0.37,2.71,63,Average
+CUST0359,Anmol Anand,37,Teacher,214447,76062,1468303,79913,715,15,Yes,239,Poor,Chennai,0.37,0.57,79,Good
+CUST0360,Tripti Pau,53,Bank Employee,92540,34179,1731568,22885,514,7,No,119,Average,Mumbai,0.25,1.56,68,Good
+CUST0361,Anjali Lata,59,Student,205572,104097,683309,72226,636,21,Yes,228,Poor,Mumbai,0.35,0.28,66,Good
+CUST0362,Krishna Basak,50,Mechanical Engineer,104908,34461,1459439,34432,825,21,Yes,360,Poor,Bangalore,0.33,1.16,86,Excellent
+CUST0363,Mitali Srinivas,48,Designer,78396,57373,2372572,18048,635,7,Yes,188,Average,Jaipur,0.23,2.52,70,Good
+CUST0364,Darsh Behl,41,Doctor,76138,60654,862972,21144,791,15,No,202,Good,Delhi,0.28,0.94,89,Excellent
+CUST0365,Naksh Varma,30,Bank Employee,184057,112869,217111,69931,771,26,No,344,Good,Chennai,0.38,0.1,80,Excellent
+CUST0366,Gaurika Ray,60,Teacher,79115,35172,2691108,7440,527,9,Yes,370,Good,Ahmedabad,0.09,2.83,70,Good
+CUST0367,Wridesh Chowdhury,55,Lawyer,226478,138122,2175029,49212,603,24,Yes,107,Average,Coimbatore,0.22,0.8,77,Good
+CUST0368,Kashish Chhabra,22,Software Engineer,243580,94229,2129709,91814,728,34,Yes,339,Poor,Kolkata,0.38,0.73,79,Good
+CUST0369,Bakhshi Rege,59,Data Analyst,81619,40213,1914981,5002,310,32,Yes,172,Average,Delhi,0.06,1.96,70,Good
+CUST0370,Osha Bava,29,Government Employee,99062,56166,347299,31619,865,8,No,119,Poor,Delhi,0.32,0.29,77,Good
+CUST0371,Ijaya Parikh,44,Civil Engineer,127699,75910,416785,41817,678,2,Yes,359,Average,Mumbai,0.33,0.27,60,Average
+CUST0372,Meghana Korpal,40,Civil Engineer,185198,125837,2857334,59043,823,31,No,250,Poor,Hyderabad,0.32,1.29,89,Excellent
+CUST0373,Lakshmi Nair,51,Teacher,84866,58439,1172712,33130,670,34,Yes,91,Poor,Ahmedabad,0.39,1.15,66,Good
+CUST0374,Owen Naidu,22,Sales Executive,197696,88883,2201974,16212,738,33,No,164,Poor,Pune,0.08,0.93,89,Excellent
+CUST0375,Siddharth Toor,35,Government Employee,56439,40948,1616036,15802,751,0,No,210,Poor,Mumbai,0.28,2.39,72,Good
+CUST0376,Imaran Toor,29,Software Engineer,206945,138610,43566,18792,570,15,No,131,Average,Kolkata,0.09,0.02,63,Average
+CUST0377,Krishna Chatterjee,33,Lawyer,54256,42885,1930909,13070,534,3,No,78,Good,Delhi,0.24,2.97,62,Average
+CUST0378,Urvi Kata,50,Civil Engineer,130869,73054,1486633,30859,455,13,Yes,307,Average,Pune,0.24,0.95,72,Good
+CUST0379,Harrison Ram,29,Designer,113552,64047,1826165,16730,536,7,Yes,198,Average,Pune,0.15,1.34,73,Good
+CUST0380,Januja Hayre,26,Sales Executive,246107,167378,2292863,79748,652,34,No,186,Average,Chennai,0.32,0.78,76,Good
+CUST0381,Henry D’Alia,31,Software Engineer,115059,76268,962994,43569,437,31,No,49,Average,Kolkata,0.38,0.7,71,Good
+CUST0382,Qabil Randhawa,46,Software Engineer,85821,68524,2580879,2947,773,35,Yes,90,Average,Jaipur,0.03,2.51,87,Excellent
+CUST0383,Pranav Mody,21,Data Analyst,214984,114560,2474399,26453,850,32,Yes,315,Good,Delhi,0.12,0.96,97,Excellent
+CUST0384,Lavanya Nigam,27,Farmer,222607,146253,1323830,48931,406,28,Yes,202,Average,Chennai,0.22,0.5,72,Good
+CUST0385,Champak Bobal,27,Civil Engineer,50977,21573,2202736,20097,401,29,Yes,248,Average,Kolkata,0.39,3.6,58,Average
+CUST0386,Mahika Chopra,29,Government Employee,118480,71284,2404567,10415,546,35,No,375,Average,Bangalore,0.09,1.69,78,Good
+CUST0387,Naveen Patla,44,Software Engineer,225882,165901,579814,23573,476,29,Yes,154,Poor,Mumbai,0.1,0.21,68,Good
+CUST0388,Vrishti Char,42,Bank Employee,165133,115650,2334390,6954,845,11,No,210,Good,Ahmedabad,0.04,1.18,100,Excellent
+CUST0389,Damini Barad,30,Civil Engineer,94478,53268,2473179,22682,654,12,No,98,Average,Delhi,0.24,2.18,75,Good
+CUST0390,Azaan Bala,36,Software Engineer,249135,182656,1087316,84090,480,25,No,240,Poor,Pune,0.34,0.36,69,Good
+CUST0391,Benjamin Mistry,60,Software Engineer,106744,52208,1211080,42660,344,11,No,175,Average,Delhi,0.4,0.95,66,Good
+CUST0392,Bhavani Thaman,56,Mechanical Engineer,43670,23477,2637063,10107,439,32,Yes,232,Average,Ahmedabad,0.23,5.03,62,Average
+CUST0393,Lakshit Swaminathan,26,Civil Engineer,238021,96026,2971338,2292,366,2,Yes,10,Good,Chennai,0.01,1.04,69,Good
+CUST0394,Gauri Deshpande,28,Electrician,132371,53879,2590100,22786,583,2,No,247,Good,Hyderabad,0.17,1.63,72,Good
+CUST0395,Vedant Swamy,47,Lawyer,163778,61709,2302911,50490,486,1,No,36,Good,Jaipur,0.31,1.17,65,Good
+CUST0396,Faraj Seshadri,21,Software Engineer,66861,41488,826937,25640,619,24,Yes,135,Poor,Jaipur,0.38,1.03,66,Good
+CUST0397,Omkaar Choudhury,37,Doctor,201452,132341,2841778,10676,570,25,Yes,158,Poor,Chennai,0.05,1.18,73,Good
+CUST0398,Tara Krishnan,46,Electrician,106655,63008,268016,25079,330,4,No,162,Average,Chennai,0.24,0.21,60,Average
+CUST0399,Gabriel Bawa,24,Student,45883,17051,2913281,15583,435,33,Yes,377,Poor,Coimbatore,0.34,5.29,56,Average
+CUST0400,Varsha Loyal,54,Mechanical Engineer,95163,66474,1338984,4698,604,8,Yes,195,Poor,Kolkata,0.05,1.17,71,Good
+CUST0401,Saksham Jha,44,Software Engineer,103501,73164,2588783,22285,496,13,Yes,141,Good,Bangalore,0.22,2.08,74,Good
+CUST0402,Kevin Chakrabarti,56,Government Employee,46211,25281,2387002,1207,360,11,Yes,162,Good,Ahmedabad,0.03,4.3,67,Good
+CUST0403,Udyati Talwar,58,Doctor,144551,58270,1402582,39136,536,27,Yes,280,Good,Coimbatore,0.27,0.81,74,Good
+CUST0404,Gagan Tata,38,Doctor,70923,34985,1961646,28278,486,17,Yes,163,Good,Ahmedabad,0.4,2.3,60,Average
+CUST0405,Vansha Gera,39,Sales Executive,185020,64000,2642276,57883,630,24,Yes,284,Good,Hyderabad,0.31,1.19,75,Good
+CUST0406,Kritika Sura,50,Designer,53462,36853,2400432,18908,546,19,Yes,298,Average,Chennai,0.35,3.74,58,Average
+CUST0407,Anjali Mittal,60,Software Engineer,126535,56410,2513323,46545,374,23,Yes,185,Good,Delhi,0.37,1.66,70,Good
+CUST0408,Ronith Amble,48,Electrician,226396,138204,863185,70746,886,24,Yes,315,Good,Bangalore,0.31,0.32,90,Excellent
+CUST0409,Nilima Koshy,43,Data Analyst,166479,103211,283994,26196,557,12,Yes,66,Average,Mumbai,0.16,0.14,65,Good
+CUST0410,Harinakshi Baria,29,Electrician,38609,24697,2166482,573,517,18,No,142,Good,Bangalore,0.01,4.68,70,Good
+CUST0411,Girik Thaman,55,Student,22631,11407,2010035,8682,402,20,Yes,89,Poor,Chennai,0.38,7.4,51,Average
+CUST0412,Vritti Kalita,24,Government Employee,168624,101328,968031,13897,680,2,Yes,239,Poor,Coimbatore,0.08,0.48,70,Good
+CUST0413,Ishaan Amble,47,Lawyer,136505,107474,2823269,26687,629,18,Yes,273,Average,Kolkata,0.2,1.72,77,Good
+CUST0414,Dakshesh Nagar,23,Designer,182874,139459,628922,68988,449,3,No,355,Poor,Mumbai,0.38,0.29,59,Average
+CUST0415,Nandini Basak,44,Civil Engineer,229467,84099,2500903,26541,746,11,Yes,143,Poor,Hyderabad,0.12,0.91,86,Excellent
+CUST0416,Faraj Khare,44,Mechanical Engineer,225562,172503,1312878,78304,889,11,No,150,Average,Kolkata,0.35,0.49,91,Excellent
+CUST0417,Liam Dixit,53,Business,123326,88724,326949,2954,317,15,No,24,Good,Kolkata,0.02,0.22,75,Good
+CUST0418,Vedhika Dewan,21,Civil Engineer,123855,95784,2513520,30281,803,4,Yes,317,Average,Kolkata,0.24,1.69,87,Excellent
+CUST0419,Advay Ganesan,23,Lawyer,196225,72123,1231792,68703,899,21,Yes,387,Average,Bangalore,0.35,0.52,88,Excellent
+CUST0420,Praneel Kapoor,53,Business,231618,161725,320090,29840,686,13,No,105,Poor,Mumbai,0.13,0.12,76,Good
+CUST0421,Nimrat Rattan,31,Teacher,125078,44101,930774,26798,368,9,No,213,Good,Mumbai,0.21,0.62,75,Good
+CUST0422,Chatresh Sarraf,57,Sales Executive,226375,175210,2020235,89525,816,14,No,95,Good,Kolkata,0.4,0.74,88,Excellent
+CUST0423,Hiral Babu,45,Civil Engineer,135452,69987,1383332,40249,340,30,No,101,Average,Coimbatore,0.3,0.85,71,Good
+CUST0424,Samarth Pillay,37,Farmer,77548,52866,1908877,22543,464,6,Yes,288,Good,Jaipur,0.29,2.05,67,Good
+CUST0425,Om Nagy,32,Sales Executive,83967,27458,667165,19290,832,0,No,330,Good,Jaipur,0.23,0.66,79,Good
+CUST0426,Rachana Wali,60,Mechanical Engineer,91210,55557,502438,10047,744,27,Yes,374,Average,Kolkata,0.11,0.46,78,Good
+CUST0427,Darsh Swamy,48,Farmer,63741,42093,407929,12449,896,25,No,398,Poor,Hyderabad,0.2,0.53,83,Excellent
+CUST0428,Vasatika Chakraborty,52,Student,161154,53678,303371,2853,710,16,No,216,Good,Coimbatore,0.02,0.16,88,Excellent
+CUST0429,Simon Khalsa,30,Business,148986,110176,2237140,56226,861,7,Yes,148,Good,Chennai,0.38,1.25,88,Excellent
+CUST0430,Indali Baral,31,Bank Employee,141999,90070,2197128,32290,606,34,Yes,287,Poor,Ahmedabad,0.23,1.29,75,Good
+CUST0431,Omisha Chandra,32,Business,248440,146052,2469728,16085,881,3,No,363,Poor,Bangalore,0.06,0.83,91,Excellent
+CUST0432,Tanay Memon,48,Bank Employee,186304,79186,2586302,57662,424,25,No,350,Average,Bangalore,0.31,1.16,71,Good
+CUST0433,Sanaya Batra,48,Sales Executive,216763,66654,2412725,64921,329,29,No,228,Poor,Delhi,0.3,0.93,69,Good
+CUST0434,Dipta Sabharwal,29,Business,57521,26679,1008157,16892,348,4,No,195,Poor,Pune,0.29,1.46,58,Average
+CUST0435,Raagini Ramaswamy,59,Lawyer,29414,17168,2816476,6721,578,13,No,323,Poor,Hyderabad,0.23,7.98,58,Average
+CUST0436,Victor Vaidya,43,Data Analyst,52580,22216,2923367,12006,416,3,Yes,114,Good,Coimbatore,0.23,4.63,59,Average
+CUST0437,Nilima Sarin,26,Farmer,63975,31876,1371468,15791,379,16,No,179,Poor,Mumbai,0.25,1.79,68,Good
+CUST0438,Tanmayi Khurana,48,Data Analyst,149020,62434,1467033,25410,533,34,No,33,Poor,Kolkata,0.17,0.82,76,Good
+CUST0439,Charan Mitter,60,Government Employee,96219,48062,1044875,36814,638,27,No,134,Poor,Bangalore,0.38,0.9,69,Good
+CUST0440,Faras Sankaran,28,Designer,176458,115096,228580,68517,354,11,Yes,335,Poor,Jaipur,0.39,0.11,56,Average
+CUST0441,Jyoti Parekh,44,Bank Employee,190446,131326,1546271,11288,463,34,No,22,Good,Chennai,0.06,0.68,80,Excellent
+CUST0442,Bina Srivastava,42,Farmer,32787,15794,462577,9892,478,20,No,156,Poor,Mumbai,0.3,1.18,54,Average
+CUST0443,Rajeshri Luthra,47,Designer,75753,55765,35605,23484,889,6,No,371,Good,Pune,0.31,0.04,71,Good
+CUST0444,Hardik Kaul,38,Government Employee,228436,96038,874058,41747,612,1,Yes,204,Average,Mumbai,0.18,0.32,72,Good
+CUST0445,Aarav Prabhu,48,Data Analyst,36680,23730,2301494,2625,759,29,No,362,Average,Pune,0.07,5.23,85,Excellent
+CUST0446,Ekaja Mann,35,Lawyer,177124,136433,310219,63767,557,5,No,256,Average,Hyderabad,0.36,0.15,61,Average
+CUST0447,Abdul Singhal,32,Data Analyst,169185,88386,604391,61050,829,6,No,352,Average,Kolkata,0.36,0.3,84,Excellent
+CUST0448,Jalsa Palla,35,Data Analyst,97747,73034,290144,2403,505,11,Yes,133,Poor,Chennai,0.02,0.25,58,Average
+CUST0449,Harrison Suri,27,Mechanical Engineer,243904,148259,127793,62219,361,23,Yes,92,Poor,Coimbatore,0.26,0.04,60,Average
+CUST0450,Yash Sidhu,27,Business,79028,30968,2199866,25348,871,1,No,399,Good,Pune,0.32,2.32,80,Excellent
+CUST0451,Warinder Madan,36,Data Analyst,130595,81297,1650045,41945,363,17,No,149,Average,Ahmedabad,0.32,1.05,71,Good
+CUST0452,Warinder Ray,36,Teacher,71506,25017,259013,13544,466,3,No,183,Good,Kolkata,0.19,0.3,60,Average
+CUST0453,Leena Kumer,59,Data Analyst,139619,86249,1285905,32828,648,30,Yes,244,Good,Mumbai,0.24,0.77,79,Good
+CUST0454,Vasudha Vyas,37,Data Analyst,210235,86266,2982174,24940,900,18,Yes,62,Average,Pune,0.12,1.18,95,Excellent
+CUST0455,Jatin Chahal,40,Doctor,184382,120599,2051125,54905,647,35,No,124,Poor,Hyderabad,0.3,0.93,74,Good
+CUST0456,Dakshesh Bumb,41,Sales Executive,202672,122486,338722,60398,638,15,No,395,Average,Ahmedabad,0.3,0.14,71,Good
+CUST0457,Oeshi Chopra,25,Software Engineer,61670,42463,2049822,18974,880,26,Yes,150,Good,Ahmedabad,0.31,2.77,85,Excellent
+CUST0458,Rachana Lata,60,Mechanical Engineer,206275,70246,1819234,66952,827,14,Yes,334,Average,Pune,0.32,0.73,88,Excellent
+CUST0459,Finn Dubey,23,Civil Engineer,119609,69113,1157080,29692,580,12,No,83,Good,Mumbai,0.25,0.81,77,Good
+CUST0460,Viraj Memon,51,Business,67012,45832,152544,19823,483,17,No,150,Poor,Jaipur,0.3,0.19,54,Average
+CUST0461,Harini Korpal,56,Civil Engineer,168142,81135,2622160,54601,585,30,Yes,392,Average,Pune,0.32,1.3,68,Good
+CUST0462,Vrishti Shukla,38,Student,91621,36015,2401897,20583,501,11,Yes,267,Good,Delhi,0.22,2.18,69,Good
+CUST0463,Ekani Merchant,35,Designer,176714,116906,2562925,12410,667,3,Yes,372,Good,Hyderabad,0.07,1.21,77,Good
+CUST0464,Mason Mangal,57,Doctor,196407,138041,2925098,38599,889,0,No,152,Poor,Coimbatore,0.2,1.24,85,Excellent
+CUST0465,Advay Savant,35,Sales Executive,59837,31709,2676160,16744,848,11,No,47,Average,Bangalore,0.28,3.73,85,Excellent
+CUST0466,Jasmit Setty,42,Data Analyst,125687,83725,279109,21270,682,14,No,346,Poor,Ahmedabad,0.17,0.19,71,Good
+CUST0467,Madhavi Chahal,47,Mechanical Engineer,126128,89727,2150667,24391,357,18,Yes,179,Good,Coimbatore,0.19,1.42,77,Good
+CUST0468,Joshua Deo,34,Business,226825,103747,1456176,53334,525,28,No,203,Poor,Bangalore,0.24,0.53,73,Good
+CUST0469,Ekiya Das,59,Teacher,165509,64449,1182865,59822,428,17,Yes,208,Average,Coimbatore,0.36,0.6,68,Good
+CUST0470,Brijesh Morar,57,Business,99099,31646,2621071,32235,385,26,No,47,Poor,Hyderabad,0.33,2.2,64,Average
+CUST0471,Manthan Koshy,42,Lawyer,121830,85754,194636,34634,751,18,No,335,Poor,Pune,0.28,0.13,80,Excellent
+CUST0472,Maya Krish,54,Designer,131845,79142,2271254,3453,345,24,No,86,Poor,Chennai,0.03,1.44,76,Good
+CUST0473,Jeremiah Nayar,35,Mechanical Engineer,94272,45312,1092369,12704,409,13,No,74,Good,Coimbatore,0.13,0.97,75,Good
+CUST0474,Bina Khosla,47,Doctor,243806,190552,1236501,26643,764,21,No,196,Poor,Coimbatore,0.11,0.42,93,Excellent
+CUST0475,Sudiksha Ranganathan,49,Mechanical Engineer,94701,38661,2485927,4400,531,9,Yes,377,Good,Jaipur,0.05,2.19,70,Good
+CUST0476,Bachittar Datta,44,Government Employee,168199,98534,446229,58090,332,31,No,274,Poor,Delhi,0.35,0.22,64,Average
+CUST0477,Jagat Merchant,48,Sales Executive,243208,187601,971449,49513,646,6,Yes,51,Poor,Jaipur,0.2,0.33,73,Good
+CUST0478,Krishna Johal,55,Bank Employee,28092,19127,737533,8509,388,28,No,253,Poor,Jaipur,0.3,2.19,49,Average
+CUST0479,Eiravati Iyer,60,Farmer,100124,78173,2567324,31847,348,35,Yes,258,Poor,Bangalore,0.32,2.14,66,Good
+CUST0480,Manthan Bandi,46,Civil Engineer,149799,69916,836200,20855,372,4,Yes,46,Poor,Delhi,0.14,0.47,68,Good
+CUST0481,Vinaya Mitter,46,Electrician,24185,12884,356480,5206,401,3,No,64,Good,Bangalore,0.22,1.23,52,Average
+CUST0482,Nikita Dixit,32,Business,36679,15172,2177285,9491,846,26,Yes,51,Average,Bangalore,0.26,4.95,82,Excellent
+CUST0483,Dipta Kumar,45,Doctor,33348,20596,126739,8622,450,7,Yes,203,Average,Pune,0.26,0.32,50,Average
+CUST0484,Finn Raval,55,Designer,220999,67386,1413013,17304,624,0,Yes,230,Average,Coimbatore,0.08,0.53,72,Good
+CUST0485,Fiyaz Chandran,48,Lawyer,193718,106857,2776827,70037,610,34,No,322,Average,Mumbai,0.36,1.19,76,Good
+CUST0486,Aarini Deshmukh,51,Business,77059,36056,2193362,15712,791,3,Yes,25,Poor,Mumbai,0.2,2.37,77,Good
+CUST0487,Lipika Sagar,47,Designer,139920,90713,2207467,822,353,19,No,46,Good,Mumbai,0.01,1.31,80,Excellent
+CUST0488,Wazir Bahl,39,Student,56830,17404,271462,18100,451,2,Yes,207,Good,Kolkata,0.32,0.4,42,Poor
+CUST0489,Ayush Vyas,54,Sales Executive,236581,170592,335215,3397,755,25,No,56,Good,Chennai,0.01,0.12,92,Excellent
+CUST0490,Libni Suresh,42,Sales Executive,33336,14981,1420554,8799,511,4,Yes,363,Good,Coimbatore,0.26,3.55,59,Average
+CUST0491,Ayush Venkatesh,31,Civil Engineer,27312,20765,64611,5858,784,31,Yes,223,Poor,Pune,0.21,0.2,57,Average
+CUST0492,Dhruv Guha,50,Business,51416,17085,1504249,12109,372,11,Yes,112,Average,Chennai,0.24,2.44,62,Average
+CUST0493,Vansha Parsa,60,Mechanical Engineer,86438,37801,641558,30681,838,24,Yes,337,Poor,Hyderabad,0.35,0.62,76,Good
+CUST0494,Lavanya Arya,49,Bank Employee,202871,148677,294387,1158,617,8,Yes,124,Poor,Hyderabad,0.01,0.12,66,Good
+CUST0495,Matthew Rajagopalan,49,Business,189797,75775,1479283,12254,373,18,No,138,Good,Kolkata,0.06,0.65,80,Excellent
+CUST0496,Balveer Luthra,51,Bank Employee,154663,109865,2284646,25885,372,8,Yes,67,Average,Kolkata,0.17,1.23,73,Good
+CUST0497,Radha Sane,24,Data Analyst,60319,29713,1145721,19395,849,16,Yes,288,Good,Coimbatore,0.32,1.58,85,Excellent
+CUST0498,Vidhi Wali,49,Bank Employee,72067,49903,1976354,16033,643,30,Yes,152,Poor,Bangalore,0.22,2.29,70,Good
+CUST0499,Radhika Krishnamurthy,25,Sales Executive,212137,112186,2477714,23098,836,19,Yes,41,Average,Kolkata,0.11,0.97,95,Excellent
+CUST0500,Manbir Taneja,52,Business,134393,73366,205111,35646,654,28,Yes,202,Average,Pune,0.27,0.13,67,Good
+CUST0501,Dipta Kala,32,Business,195264,144367,2879267,77610,526,9,Yes,59,Average,Hyderabad,0.4,1.23,61,Average
+CUST0502,Mekhala Tella,51,Electrician,238714,132398,2533586,71739,699,28,Yes,32,Poor,Pune,0.3,0.88,71,Good
+CUST0503,Arjun Raj,21,Sales Executive,168709,125374,1536910,57429,401,35,Yes,18,Poor,Jaipur,0.34,0.76,66,Good
+CUST0504,Gaurangi Char,52,Doctor,184654,65990,1265075,40400,710,13,Yes,118,Average,Coimbatore,0.22,0.57,85,Excellent
+CUST0505,Bahadurjit Kapoor,36,Lawyer,149371,71130,2404654,56101,560,17,Yes,270,Average,Chennai,0.38,1.34,68,Good
+CUST0506,Gagan Oza,29,Civil Engineer,48199,32770,2373952,14974,879,16,No,360,Good,Jaipur,0.31,4.1,83,Excellent
+CUST0507,Chakrika Kothari,56,Designer,227558,170785,2715226,42807,549,10,No,324,Poor,Coimbatore,0.19,0.99,74,Good
+CUST0508,Tara Tandon,22,Government Employee,130936,74792,2250416,48465,838,20,No,136,Good,Coimbatore,0.37,1.43,93,Excellent
+CUST0509,Zarna Kakar,24,Doctor,188684,79208,282112,50910,731,32,No,110,Average,Delhi,0.27,0.12,78,Good
+CUST0510,Mahika Sandhu,26,Electrician,155805,52569,425473,52117,650,22,Yes,207,Good,Ahmedabad,0.33,0.23,70,Good
+CUST0511,Harini Naik,38,Sales Executive,24313,14006,1100540,549,363,24,No,238,Average,Jaipur,0.02,3.77,63,Average
+CUST0512,Vincent Ray,53,Government Employee,200978,138588,2916416,52832,797,24,Yes,150,Poor,Kolkata,0.26,1.21,87,Excellent
+CUST0513,Onveer Manne,21,Electrician,147113,90316,506878,8916,421,9,Yes,192,Poor,Jaipur,0.06,0.29,66,Good
+CUST0514,Daniel Bobal,57,Electrician,242096,127140,1720612,9962,827,9,Yes,225,Poor,Ahmedabad,0.04,0.59,91,Excellent
+CUST0515,Tejas Dutt,46,Electrician,185381,138030,2370801,26135,432,14,No,296,Poor,Bangalore,0.14,1.07,76,Good
+CUST0516,Christopher Ahuja,42,Lawyer,205644,77267,2201016,21304,854,27,No,42,Average,Mumbai,0.1,0.89,98,Excellent
+CUST0517,Karan Suresh,31,Civil Engineer,131317,45814,581126,3846,669,24,No,78,Poor,Ahmedabad,0.03,0.37,76,Good
+CUST0518,Dakshesh Bumb,48,Civil Engineer,153668,57627,2984483,57568,784,32,No,63,Poor,Delhi,0.37,1.62,86,Excellent
+CUST0519,Saksham Panchal,40,Bank Employee,35797,26691,1893631,1050,488,34,No,102,Poor,Delhi,0.03,4.41,66,Good
+CUST0520,Anay Ghose,32,Civil Engineer,50711,27539,272667,17257,577,0,Yes,219,Good,Hyderabad,0.34,0.45,42,Poor
+CUST0521,Amara Chandran,55,Civil Engineer,155398,73693,239646,380,732,28,Yes,316,Good,Hyderabad,0.0,0.13,80,Excellent
+CUST0522,Udant Morar,23,Teacher,150123,64671,995491,45995,664,20,No,364,Good,Coimbatore,0.31,0.55,78,Good
+CUST0523,Rachita Varty,24,Electrician,141374,96779,683586,43629,872,29,No,66,Average,Kolkata,0.31,0.4,86,Excellent
+CUST0524,Ekansh Anne,31,Farmer,78035,51873,2259881,8441,836,9,No,382,Good,Kolkata,0.11,2.41,93,Excellent
+CUST0525,Kala Memon,42,Bank Employee,93287,46690,612976,14867,552,29,No,307,Average,Kolkata,0.16,0.55,68,Good
+CUST0526,Devansh Sehgal,25,Farmer,79437,39508,1480832,4506,598,20,No,160,Average,Mumbai,0.06,1.55,73,Good
+CUST0527,Harrison Sarraf,48,Teacher,211922,95673,865785,5197,569,25,Yes,273,Poor,Bangalore,0.02,0.34,73,Good
+CUST0528,Bhavya Kari,48,Civil Engineer,93613,60687,211605,18627,855,27,No,110,Poor,Coimbatore,0.2,0.19,78,Good
+CUST0529,Aditya Malhotra,43,Bank Employee,165330,83899,1258995,56307,647,21,Yes,243,Poor,Mumbai,0.34,0.63,71,Good
+CUST0530,Eiravati Yogi,24,Civil Engineer,74076,28440,545882,8138,471,11,No,303,Average,Jaipur,0.11,0.61,68,Good
+CUST0531,Yauvani Khalsa,48,Lawyer,103104,64948,1389106,27360,696,14,No,298,Good,Kolkata,0.27,1.12,82,Excellent
+CUST0532,Ekta Hari,27,Sales Executive,173689,92096,852623,66249,314,22,No,253,Good,Hyderabad,0.38,0.41,73,Good
+CUST0533,Oni Edwin,47,Designer,96675,33332,795618,16560,674,15,No,280,Poor,Delhi,0.17,0.69,71,Good
+CUST0534,David Shan,48,Sales Executive,21197,8598,255572,5930,402,5,Yes,302,Good,Chennai,0.28,1.0,44,Poor
+CUST0535,Laksh Dugar,37,Teacher,210997,166404,2964500,34528,634,0,Yes,63,Average,Kolkata,0.16,1.17,72,Good
+CUST0536,Sarthak Merchant,42,Teacher,200271,104918,67333,73102,373,0,No,149,Good,Mumbai,0.37,0.03,50,Average
+CUST0537,Nakul Soni,45,Farmer,167839,109258,626259,50531,351,19,No,27,Poor,Jaipur,0.3,0.31,64,Average
+CUST0538,Ishanvi Deo,31,Data Analyst,170927,122536,2025784,13964,682,33,No,290,Poor,Jaipur,0.08,0.99,81,Excellent
+CUST0539,Abha Soman,36,Government Employee,136908,106587,505070,1883,892,27,No,258,Poor,Pune,0.01,0.31,91,Excellent
+CUST0540,Vedhika Majumdar,36,Data Analyst,80528,54284,2393906,8266,742,8,Yes,162,Poor,Coimbatore,0.1,2.48,79,Good
+CUST0541,Bimala Konda,57,Sales Executive,198188,102991,2958405,5814,697,26,Yes,346,Poor,Kolkata,0.03,1.24,78,Good
+CUST0542,Dhriti Bassi,54,Data Analyst,31452,12261,2715096,10763,351,14,No,247,Good,Pune,0.34,7.19,63,Average
+CUST0543,Neelima Gade,37,Designer,78903,57130,1068990,7757,745,21,No,226,Average,Pune,0.1,1.13,86,Excellent
+CUST0544,Frado Balan,26,Mechanical Engineer,86575,34535,469319,9567,703,32,Yes,22,Average,Coimbatore,0.11,0.45,78,Good
+CUST0545,Gunbir Manne,48,Teacher,149966,59063,2995281,48326,459,27,No,77,Good,Ahmedabad,0.32,1.66,73,Good
+CUST0546,Warda Garde,59,Civil Engineer,20092,13164,1801798,2209,717,26,No,294,Poor,Pune,0.11,7.47,74,Good
+CUST0547,Zayyan Sen,52,Doctor,54460,33880,1078595,10013,743,31,No,191,Good,Chennai,0.18,1.65,83,Excellent
+CUST0548,Aishani Aurora,39,Software Engineer,70155,52390,2205477,15780,491,2,Yes,109,Poor,Bangalore,0.22,2.62,57,Average
+CUST0549,Ekavir Narula,27,Sales Executive,44481,17632,314184,16712,854,29,Yes,298,Poor,Delhi,0.38,0.59,71,Good
+CUST0550,Wriddhish Varma,44,Student,26968,10838,2093498,7562,870,30,Yes,343,Average,Pune,0.28,6.47,77,Good
+CUST0551,Tristan Bala,40,Civil Engineer,155540,52767,2312020,28333,518,9,No,77,Poor,Ahmedabad,0.18,1.24,74,Good
+CUST0552,Jagat Kohli,49,Business,220183,76514,1228821,5964,592,16,Yes,239,Poor,Mumbai,0.03,0.47,73,Good
+CUST0553,Suhani Boase,25,Teacher,197984,66377,1670617,1082,499,11,Yes,14,Poor,Pune,0.01,0.7,73,Good
+CUST0554,Advay Chander,28,Designer,26501,8245,1518685,1657,341,30,Yes,102,Average,Mumbai,0.06,4.78,60,Average
+CUST0555,Nihal Arya,31,Farmer,158968,66755,2806725,24674,883,21,No,139,Poor,Coimbatore,0.16,1.47,96,Excellent
+CUST0556,Urvashi Ahuja,47,Business,96734,70819,1467946,8468,692,27,No,142,Average,Pune,0.09,1.26,78,Good
+CUST0557,Indali Lata,37,Civil Engineer,240090,145997,2400150,14344,452,22,Yes,221,Poor,Ahmedabad,0.06,0.83,73,Good
+CUST0558,Balhaar Naik,57,Government Employee,142920,95788,225561,16844,681,25,No,130,Good,Kolkata,0.12,0.13,75,Good
+CUST0559,Yashoda Chokshi,22,Civil Engineer,223872,100543,2422163,10041,879,1,Yes,267,Average,Chennai,0.04,0.9,87,Excellent
+CUST0560,Mohammed Sanghvi,47,Doctor,191823,141187,1918534,47459,724,23,No,159,Average,Kolkata,0.25,0.83,88,Excellent
+CUST0561,Aadhya Kamdar,44,Electrician,206374,151000,2568634,11802,679,2,No,240,Average,Coimbatore,0.06,1.04,75,Good
+CUST0562,Lipika Varkey,24,Mechanical Engineer,31851,16157,176129,3172,451,9,Yes,200,Average,Chennai,0.1,0.46,53,Average
+CUST0563,Manan Sen,43,Data Analyst,77931,54713,775524,30942,475,21,No,108,Poor,Mumbai,0.4,0.83,54,Average
+CUST0564,Madhav Dutt,55,Sales Executive,200712,66906,2200582,21601,706,9,No,319,Average,Delhi,0.11,0.91,89,Excellent
+CUST0565,Tanvi Natt,39,Mechanical Engineer,77742,48974,1881708,17966,324,27,No,36,Poor,Mumbai,0.23,2.02,68,Good
+CUST0566,William Aggarwal,37,Business,100416,62080,540254,32506,886,22,Yes,71,Average,Mumbai,0.32,0.45,83,Excellent
+CUST0567,Charan Bali,22,Farmer,115238,83487,1916124,32612,759,22,Yes,74,Poor,Delhi,0.28,1.39,87,Excellent
+CUST0568,Tejas Bhandari,39,Data Analyst,23171,10954,993775,6738,397,21,No,155,Good,Ahmedabad,0.29,3.57,62,Average
+CUST0569,Anya Krishnan,38,Civil Engineer,52808,26054,1011087,4197,364,25,Yes,34,Average,Coimbatore,0.08,1.6,65,Good
+CUST0570,Dayita Cherian,33,Electrician,77854,45722,83269,22249,343,16,Yes,136,Good,Chennai,0.29,0.09,54,Average
+CUST0571,Balhaar Bava,41,Software Engineer,220532,140232,2427019,79079,876,8,No,279,Poor,Jaipur,0.36,0.92,87,Excellent
+CUST0572,Nidra Dalal,39,Civil Engineer,192204,134511,895692,34058,670,31,No,292,Average,Hyderabad,0.18,0.39,83,Excellent
+CUST0573,Nitesh Konda,60,Business,126354,77242,76286,30967,709,30,Yes,135,Poor,Jaipur,0.25,0.05,68,Good
+CUST0574,Baljiwan Kalla,45,Business,40163,28889,547160,10718,373,1,Yes,205,Good,Bangalore,0.27,1.14,51,Average
+CUST0575,Om Baria,44,Bank Employee,91826,55306,2909511,27635,304,9,Yes,195,Average,Delhi,0.3,2.64,61,Average
+CUST0576,Madhav Wadhwa,40,Electrician,109016,83662,2826336,11744,739,24,No,349,Poor,Kolkata,0.11,2.16,89,Excellent
+CUST0577,Januja Nadig,41,Government Employee,122036,69240,2782375,36567,635,16,No,196,Poor,Delhi,0.3,1.9,74,Good
+CUST0578,Bina Kaur,47,Business,82177,48417,22101,26747,457,25,Yes,204,Good,Jaipur,0.33,0.02,50,Average
+CUST0579,Madhav Badal,50,Software Engineer,184018,58815,1710628,67403,494,21,No,367,Average,Hyderabad,0.37,0.77,71,Good
+CUST0580,Jagvi Bajaj,27,Student,206669,63413,1980825,57511,753,15,No,77,Poor,Bangalore,0.28,0.8,90,Excellent
+CUST0581,Raagini Koshy,37,Designer,103018,49021,660045,21048,509,27,No,182,Good,Pune,0.2,0.53,72,Good
+CUST0582,Kiaan Dutt,49,Government Employee,222734,116828,34758,58941,450,7,Yes,123,Poor,Jaipur,0.26,0.01,53,Average
+CUST0583,Warinder Pall,53,Electrician,178988,75725,214615,15389,307,29,No,67,Poor,Kolkata,0.09,0.1,66,Good
+CUST0584,Nirja Hari,26,Government Employee,124173,87996,190114,44836,847,24,Yes,266,Average,Bangalore,0.36,0.13,78,Good
+CUST0585,Pavani Ganesan,21,Software Engineer,201604,121952,862112,14721,732,24,Yes,46,Average,Bangalore,0.07,0.36,88,Excellent
+CUST0586,Abdul Ghosh,60,Farmer,164378,101761,702126,13998,854,5,Yes,87,Poor,Delhi,0.09,0.36,83,Excellent
+CUST0587,Falguni Gera,55,Teacher,205877,124954,89777,54749,806,2,No,11,Poor,Hyderabad,0.27,0.04,70,Good
+CUST0588,Ekalinga Bhatia,41,Data Analyst,210166,164746,1494783,54819,376,4,Yes,58,Poor,Mumbai,0.26,0.59,65,Good
+CUST0589,Amrita Palla,26,Electrician,194167,77388,906274,67102,563,17,Yes,231,Average,Jaipur,0.35,0.39,68,Good
+CUST0590,Janaki Kari,52,Teacher,238682,184653,2718607,9148,692,32,No,229,Good,Delhi,0.04,0.95,85,Excellent
+CUST0591,Mohini Sengupta,50,Civil Engineer,48749,29449,1342542,4835,309,32,No,349,Poor,Chennai,0.1,2.29,66,Good
+CUST0592,Ekaja Rau,28,Software Engineer,20108,10321,1955912,90,418,20,Yes,234,Poor,Delhi,0.0,8.11,58,Average
+CUST0593,Hemangini Mahajan,48,Student,135242,62849,266621,36359,574,25,No,333,Average,Delhi,0.27,0.16,65,Good
+CUST0594,Edhitha Barad,51,Teacher,80760,55363,1748263,25746,782,8,No,168,Average,Mumbai,0.32,1.8,81,Excellent
+CUST0595,Ijaya Chad,49,Bank Employee,107163,84355,2628339,38428,898,4,No,225,Poor,Mumbai,0.36,2.04,84,Excellent
+CUST0596,Ikshita Wagle,53,Bank Employee,43663,16420,1047051,2889,471,11,Yes,370,Average,Kolkata,0.07,2.0,65,Good
+CUST0597,Zansi Narasimhan,42,Government Employee,206798,144827,1977864,71375,532,3,No,105,Good,Pune,0.35,0.8,68,Good
+CUST0598,Balveer Sagar,39,Farmer,29811,12492,2616462,9405,653,30,Yes,40,Poor,Chennai,0.32,7.31,56,Average
+CUST0599,Oni Varkey,45,Doctor,210228,80167,692177,1615,359,17,Yes,191,Average,Coimbatore,0.01,0.27,70,Good
+CUST0600,Ayushman Nagy,53,Business,171875,103003,1722777,65208,836,28,Yes,121,Average,Chennai,0.38,0.84,88,Excellent
+CUST0601,Jackson Ghosh,32,Electrician,23084,8422,2908537,8350,859,4,Yes,82,Average,Delhi,0.36,10.5,68,Good
+CUST0602,Saumya Ramakrishnan,41,Teacher,92048,35942,2417050,25262,702,35,No,201,Poor,Delhi,0.27,2.19,81,Excellent
+CUST0603,Naksh Taneja,30,Bank Employee,98838,53622,2426272,34346,333,17,Yes,384,Average,Ahmedabad,0.35,2.05,63,Average
+CUST0604,Ekaja Grover,42,Data Analyst,39039,17414,350760,7673,670,4,No,62,Poor,Coimbatore,0.2,0.75,58,Average
+CUST0605,Yug Lanka,54,Designer,162746,113676,2054923,28626,764,16,No,23,Good,Coimbatore,0.18,1.05,97,Excellent
+CUST0606,Reyansh Nayar,43,Civil Engineer,117325,69426,1612360,10203,776,4,Yes,340,Poor,Bangalore,0.09,1.15,85,Excellent
+CUST0607,Turvi Parmer,57,Lawyer,168135,130316,1101416,11999,659,27,Yes,11,Poor,Pune,0.07,0.55,78,Good
+CUST0608,Manya Sridhar,29,Designer,134917,54590,225392,25489,672,34,No,303,Poor,Kolkata,0.19,0.14,71,Good
+CUST0609,Jeet Mandal,24,Farmer,243562,138304,2582004,15363,657,4,Yes,264,Good,Jaipur,0.06,0.88,77,Good
+CUST0610,Ronith Vig,23,Doctor,174348,102916,376512,52490,725,29,No,59,Poor,Hyderabad,0.3,0.18,77,Good
+CUST0611,Nathaniel Choudhry,37,Designer,158273,50888,2641688,57901,582,7,Yes,364,Average,Jaipur,0.37,1.39,66,Good
+CUST0612,Yash Bhasin,23,Sales Executive,76368,36541,1805923,28134,426,4,Yes,282,Good,Ahmedabad,0.37,1.97,60,Average
+CUST0613,Janya Chaudhuri,30,Student,227791,118153,1253866,43115,773,30,No,175,Good,Hyderabad,0.19,0.46,97,Excellent
+CUST0614,Rachit Sood,49,Business,54055,19426,52343,13409,715,20,Yes,278,Average,Hyderabad,0.25,0.08,60,Average
+CUST0615,Imaran Tank,57,Business,188559,65708,2875094,20729,659,35,No,303,Poor,Mumbai,0.11,1.27,81,Excellent
+CUST0616,Hema Rajan,43,Electrician,51202,30290,1804129,4366,658,23,Yes,185,Poor,Jaipur,0.09,2.94,68,Good
+CUST0617,Wahab Hegde,53,Designer,59643,32862,2048224,5228,341,9,No,126,Poor,Mumbai,0.09,2.86,64,Average
+CUST0618,Ekapad Dar,49,Government Employee,104735,73548,2700501,27699,793,33,No,182,Poor,Coimbatore,0.26,2.15,90,Excellent
+CUST0619,Jack Sundaram,50,Farmer,75392,46460,1362971,23974,610,3,Yes,242,Poor,Jaipur,0.32,1.51,61,Average
+CUST0620,Wahab Rout,34,Civil Engineer,186171,66981,1513296,17104,800,30,No,126,Good,Mumbai,0.09,0.68,100,Excellent
+CUST0621,Isaac Sibal,27,Electrician,100453,62199,2410512,23797,406,11,Yes,321,Good,Pune,0.24,2.0,74,Good
+CUST0622,Udyati Narula,48,Farmer,148595,105720,2667514,17,424,7,Yes,145,Good,Kolkata,0.0,1.5,75,Good
+CUST0623,Michael Natt,53,Mechanical Engineer,166799,61226,2251244,62182,718,13,No,141,Average,Mumbai,0.37,1.12,84,Excellent
+CUST0624,Riya Thaman,60,Electrician,34877,24508,2749378,10296,796,34,No,181,Good,Ahmedabad,0.3,6.57,80,Excellent
+CUST0625,Sneha Merchant,23,Sales Executive,32819,17092,1406758,10258,594,7,No,287,Poor,Chennai,0.31,3.57,57,Average
+CUST0626,Eta Wagle,27,Electrician,88583,42600,2614258,5167,881,24,Yes,84,Good,Ahmedabad,0.06,2.46,92,Excellent
+CUST0627,Hemangini Nath,24,Lawyer,108082,82221,2235079,11247,681,29,No,109,Poor,Hyderabad,0.1,1.72,81,Excellent
+CUST0628,Abeer Dasgupta,27,Business,151891,87891,429611,24717,342,3,No,214,Good,Hyderabad,0.16,0.24,70,Good
+CUST0629,Tanvi Menon,58,Bank Employee,234213,140809,684140,66577,751,21,Yes,335,Poor,Delhi,0.28,0.24,82,Excellent
+CUST0630,Sanaya Samra,54,Farmer,50969,26779,293757,13921,483,32,Yes,317,Poor,Coimbatore,0.27,0.48,50,Average
+CUST0631,Urishilla Chander,32,Designer,130075,103215,1360620,6532,863,1,Yes,328,Average,Bangalore,0.05,0.87,87,Excellent
+CUST0632,Raksha Subramanian,51,Mechanical Engineer,60036,28765,2897239,1340,655,6,No,215,Poor,Bangalore,0.02,4.02,74,Good
+CUST0633,Amruta Palla,25,Business,124504,96648,1134677,17512,679,22,No,173,Good,Jaipur,0.14,0.76,85,Excellent
+CUST0634,Saumya Garde,39,Data Analyst,212237,85060,956050,45363,717,16,Yes,11,Average,Bangalore,0.21,0.38,85,Excellent
+CUST0635,Abha Prabhakar,42,Mechanical Engineer,161542,127501,1227579,59446,564,5,No,215,Good,Hyderabad,0.37,0.63,68,Good
+CUST0636,Charan Dara,31,Farmer,48557,27943,2476206,2678,626,4,Yes,43,Good,Coimbatore,0.06,4.25,67,Good
+CUST0637,Baghyawati Mani,48,Civil Engineer,89650,45159,2220793,29478,738,3,No,276,Good,Chennai,0.33,2.06,76,Good
+CUST0638,Patrick Yadav,32,Designer,177700,117651,2088939,45195,739,7,No,290,Good,Ahmedabad,0.25,0.98,88,Excellent
+CUST0639,Aarna Barman,46,Lawyer,24704,16666,668714,116,616,25,Yes,204,Good,Coimbatore,0.0,2.26,62,Average
+CUST0640,Dakshesh Suri,21,Doctor,80370,62528,1860877,724,706,30,No,148,Average,Ahmedabad,0.01,1.93,86,Excellent
+CUST0641,Yatan Mistry,57,Mechanical Engineer,198180,94884,616132,56257,572,8,Yes,181,Average,Delhi,0.28,0.26,65,Good
+CUST0642,Aarnav Kalla,59,Bank Employee,233984,156786,2156463,32513,783,34,Yes,306,Poor,Jaipur,0.14,0.77,90,Excellent
+CUST0643,Falan Raghavan,37,Software Engineer,209956,105436,2969042,20495,862,34,No,28,Good,Hyderabad,0.1,1.18,100,Excellent
+CUST0644,Ekiya Kara,53,Software Engineer,150123,82212,99479,10505,324,20,No,320,Good,Chennai,0.07,0.06,65,Good
+CUST0645,Urvi Goda,57,Software Engineer,133844,93349,1545400,53111,417,12,Yes,65,Poor,Delhi,0.4,0.96,61,Average
+CUST0646,Faris Gara,54,Teacher,222120,120171,180689,54713,330,35,No,234,Good,Kolkata,0.25,0.07,67,Good
+CUST0647,Jai Agrawal,30,Teacher,145023,108447,1420180,30591,851,24,Yes,267,Average,Mumbai,0.21,0.82,92,Excellent
+CUST0648,Meghana Shroff,30,Doctor,170878,117685,368068,58015,767,6,Yes,234,Poor,Jaipur,0.34,0.18,76,Good
+CUST0649,Dakshesh Dua,51,Civil Engineer,224724,133382,1647035,72075,798,4,No,319,Poor,Hyderabad,0.32,0.61,81,Excellent
+CUST0650,Henry Mall,36,Government Employee,59848,18388,75481,652,515,16,No,44,Poor,Hyderabad,0.01,0.11,51,Average
+CUST0651,Arunima Jaggi,36,Student,237828,162583,102448,11536,714,32,No,232,Poor,Chennai,0.05,0.04,79,Good
+CUST0652,Gopal Devi,33,Electrician,227062,134390,2717986,51781,491,21,Yes,194,Poor,Mumbai,0.23,1.0,70,Good
+CUST0653,Gagan Rajagopalan,41,Civil Engineer,85703,45633,135602,20935,889,32,No,240,Good,Ahmedabad,0.24,0.13,82,Excellent
+CUST0654,Vansha Cheema,30,Bank Employee,166104,112696,1226436,64597,579,32,No,389,Average,Jaipur,0.39,0.62,71,Good
+CUST0655,Yoshita Keer,42,Lawyer,62703,21848,2603287,22948,443,23,Yes,197,Poor,Mumbai,0.37,3.46,61,Average
+CUST0656,Daksh Vyas,49,Government Employee,26600,19701,1694309,868,698,32,Yes,152,Good,Mumbai,0.03,5.31,67,Good
+CUST0657,Shravya Subramanian,23,Software Engineer,198474,79275,1138326,56054,557,5,Yes,320,Good,Kolkata,0.28,0.48,69,Good
+CUST0658,Alexander Saxena,23,Teacher,156222,98031,1997464,51201,405,19,Yes,70,Average,Ahmedabad,0.33,1.07,68,Good
+CUST0659,Chavvi Deep,27,Electrician,51562,29937,2291639,8307,763,20,No,282,Average,Pune,0.16,3.7,85,Excellent
+CUST0660,Laksh Sarkar,60,Doctor,205003,125453,1370113,5707,885,27,No,205,Good,Pune,0.03,0.56,100,Excellent
+CUST0661,Aachal Pau,57,Civil Engineer,225509,162186,696318,11816,347,1,Yes,301,Good,Kolkata,0.05,0.26,64,Average
+CUST0662,Nirja Tak,26,Designer,54302,31765,728034,20860,840,10,Yes,64,Average,Hyderabad,0.38,1.12,71,Good
+CUST0663,Pratyush Zacharia,44,Software Engineer,85536,40070,2135389,20235,539,21,No,18,Good,Jaipur,0.24,2.08,72,Good
+CUST0664,Bahadurjit Narang,41,Mechanical Engineer,123567,74746,1086387,18189,616,20,Yes,18,Poor,Mumbai,0.15,0.73,78,Good
+CUST0665,Sudiksha Dhar,60,Software Engineer,68298,53206,1890781,23097,677,32,No,265,Average,Pune,0.34,2.31,71,Good
+CUST0666,Lucky Morar,52,Farmer,32195,16757,2314237,5175,353,5,No,63,Poor,Coimbatore,0.16,5.99,61,Average
+CUST0667,Manbir D’Alia,33,Mechanical Engineer,74242,44504,2360335,20233,304,7,No,349,Poor,Ahmedabad,0.27,2.65,66,Good
+CUST0668,Yasti Rai,28,Government Employee,38259,28374,1505959,14386,356,4,Yes,192,Poor,Jaipur,0.38,3.28,51,Average
+CUST0669,Guneet Nanda,60,Software Engineer,150455,117633,137507,24501,493,9,No,236,Good,Ahmedabad,0.16,0.08,68,Good
+CUST0670,Simon Madan,42,Teacher,131962,48127,1698075,1042,527,16,Yes,10,Average,Delhi,0.01,1.07,75,Good
+CUST0671,Zaitra Pillai,45,Student,149093,68127,976698,22930,345,19,Yes,183,Poor,Delhi,0.15,0.55,73,Good
+CUST0672,Imaran Gour,22,Mechanical Engineer,184895,146689,2399346,45081,597,11,No,276,Poor,Hyderabad,0.24,1.08,73,Good
+CUST0673,Edhitha Karpe,59,Government Employee,142061,61905,1745067,1020,349,30,No,37,Good,Pune,0.01,1.02,80,Excellent
+CUST0674,Faris Solanki,28,Farmer,71726,46740,2306693,23744,643,21,Yes,327,Average,Coimbatore,0.33,2.68,68,Good
+CUST0675,Anjali Sandal,47,Software Engineer,67657,22141,264531,11012,747,1,No,165,Good,Pune,0.16,0.33,70,Good
+CUST0676,Elijah Pai,23,Government Employee,137114,62319,2679491,6659,892,23,Yes,370,Poor,Chennai,0.05,1.63,93,Excellent
+CUST0677,Jackson Gupta,42,Student,37588,20614,925307,3928,360,26,Yes,51,Poor,Hyderabad,0.1,2.05,63,Average
+CUST0678,Upma Anand,29,Designer,182685,117733,1941658,64690,847,8,No,160,Average,Ahmedabad,0.35,0.89,89,Excellent
+CUST0679,Kiaan Sem,49,Mechanical Engineer,144128,103113,1438518,17144,497,1,Yes,250,Poor,Kolkata,0.12,0.83,65,Good
+CUST0680,Raagini Ramanathan,21,Mechanical Engineer,195348,73686,2720867,7045,877,27,No,91,Average,Pune,0.04,1.16,98,Excellent
+CUST0681,Jairaj Gandhi,46,Government Employee,106228,32700,2424468,20696,834,17,No,263,Good,Pune,0.19,1.9,100,Excellent
+CUST0682,Diya Agate,43,Business,155566,68885,475051,5193,409,10,No,42,Poor,Pune,0.03,0.25,69,Good
+CUST0683,Alexander Mander,58,Lawyer,36993,22572,1867808,585,624,26,Yes,69,Poor,Mumbai,0.02,4.21,68,Good
+CUST0684,Lavanya Sandal,35,Data Analyst,156674,54300,1778446,43695,445,33,Yes,87,Poor,Delhi,0.28,0.95,70,Good
+CUST0685,Hemangini Prasad,49,Data Analyst,44901,25635,134087,1573,311,2,Yes,325,Poor,Kolkata,0.04,0.25,45,Average
+CUST0686,Lakshit Warrior,45,Software Engineer,89496,57592,510786,15321,777,2,No,223,Average,Ahmedabad,0.17,0.48,77,Good
+CUST0687,Chaaya Boase,38,Government Employee,88422,45955,2338133,24691,685,33,Yes,338,Poor,Hyderabad,0.28,2.2,70,Good
+CUST0688,Wazir Bakshi,50,Sales Executive,224248,74392,2590293,56689,551,25,No,134,Poor,Coimbatore,0.25,0.96,73,Good
+CUST0689,Charita Tiwari,45,Business,99861,65533,1902037,33483,739,29,Yes,97,Average,Ahmedabad,0.34,1.59,76,Good
+CUST0690,Janani Sarma,42,Data Analyst,214751,96783,582687,8762,604,28,Yes,182,Average,Pune,0.04,0.23,75,Good
+CUST0691,Chaman Karpe,33,Civil Engineer,208623,106566,1420648,31495,678,2,No,69,Good,Kolkata,0.15,0.57,77,Good
+CUST0692,Laksh Loke,26,Doctor,184947,131884,2807634,54299,421,31,Yes,214,Average,Coimbatore,0.29,1.27,72,Good
+CUST0693,Ekalinga Talwar,57,Lawyer,123987,73736,2035643,11088,851,9,No,185,Good,Ahmedabad,0.09,1.37,98,Excellent
+CUST0694,Abhiram Swamy,27,Student,82900,34300,2949418,18032,376,31,Yes,381,Poor,Hyderabad,0.22,2.96,65,Good
+CUST0695,Owen Apte,43,Civil Engineer,57790,37579,641968,19999,868,16,Yes,213,Good,Pune,0.35,0.93,75,Good
+CUST0696,Isaac Ramaswamy,39,Designer,58792,18867,2258555,17733,673,32,No,269,Good,Coimbatore,0.3,3.2,68,Good
+CUST0697,Yashoda Tak,32,Farmer,105183,70333,892821,15208,843,33,Yes,74,Poor,Ahmedabad,0.14,0.71,93,Excellent
+CUST0698,Lakshit Sachar,43,Designer,197428,157902,1901372,74894,437,13,No,216,Poor,Bangalore,0.38,0.8,69,Good
+CUST0699,Ekansh Bobal,42,Lawyer,157435,74651,2659779,51216,726,3,No,141,Good,Delhi,0.33,1.41,81,Excellent
+CUST0700,Chaitaly Hayre,50,Government Employee,179674,93315,2848208,66726,408,10,No,117,Average,Bangalore,0.37,1.32,69,Good
+CUST0701,Mitesh Behl,39,Farmer,249231,174852,479839,40340,624,31,Yes,82,Good,Chennai,0.16,0.16,77,Good
+CUST0702,Mohini Shan,55,Teacher,96654,62413,2565796,2338,499,7,Yes,249,Poor,Hyderabad,0.02,2.21,66,Good
+CUST0703,Chakradev Wali,38,Lawyer,67248,35734,1650716,2951,399,4,No,15,Poor,Kolkata,0.04,2.05,66,Good
+CUST0704,Geetika Palan,42,Data Analyst,47009,30816,1748689,7102,307,2,Yes,227,Average,Ahmedabad,0.15,3.1,57,Average
+CUST0705,Zehaan Tank,59,Doctor,229582,102766,546543,27793,429,18,No,232,Average,Pune,0.12,0.2,73,Good
+CUST0706,Netra Sahni,36,Software Engineer,42183,18248,1952973,15979,891,7,No,256,Average,Hyderabad,0.38,3.86,79,Good
+CUST0707,Bhavna Sankar,36,Sales Executive,170546,72683,2672174,24719,875,7,Yes,161,Average,Bangalore,0.14,1.31,93,Excellent
+CUST0708,Bina Garg,41,Software Engineer,227051,164684,2967398,1727,779,13,Yes,64,Average,Coimbatore,0.01,1.09,92,Excellent
+CUST0709,Eta Lall,41,Student,56718,44891,1773269,15145,534,27,Yes,284,Good,Chennai,0.27,2.61,64,Average
+CUST0710,Xiti Sachdeva,22,Doctor,86414,58333,1777947,5027,469,9,Yes,156,Poor,Pune,0.06,1.71,66,Good
+CUST0711,Veda Bali,55,Software Engineer,123833,54629,2737706,18506,614,28,Yes,379,Good,Kolkata,0.15,1.84,82,Excellent
+CUST0712,Nakul Shanker,30,Teacher,106419,66990,2218299,22097,665,29,Yes,67,Poor,Bangalore,0.21,1.74,75,Good
+CUST0713,Chakrika Iyer,43,Business,116539,43534,2691481,3711,571,11,Yes,38,Good,Jaipur,0.03,1.92,77,Good
+CUST0714,Hema Saran,31,Student,197048,79792,1997541,50031,349,19,No,61,Average,Jaipur,0.25,0.84,75,Good
+CUST0715,Lipika Yogi,32,Designer,52027,38710,466563,9538,672,26,No,85,Good,Coimbatore,0.18,0.75,70,Good
+CUST0716,Farhan Sarkar,28,Electrician,95108,33324,759212,18181,391,18,No,16,Average,Mumbai,0.19,0.67,68,Good
+CUST0717,Kalpit Buch,24,Government Employee,123765,72326,94534,35534,342,20,Yes,90,Average,Hyderabad,0.29,0.06,57,Average
+CUST0718,Balhaar Uppal,30,Farmer,102968,41103,2852924,29713,345,24,Yes,79,Poor,Kolkata,0.29,2.31,70,Good
+CUST0719,Christopher Bir,28,Data Analyst,36959,22534,1684071,6151,849,18,Yes,325,Poor,Jaipur,0.17,3.8,83,Excellent
+CUST0720,Ishani Narayanan,59,Lawyer,94990,63659,2680660,11659,517,9,Yes,336,Good,Mumbai,0.12,2.35,70,Good
+CUST0721,Harrison Oommen,26,Government Employee,156587,71180,329575,35458,686,2,No,102,Average,Delhi,0.23,0.18,67,Good
+CUST0722,Gautami Nadkarni,52,Doctor,186935,69278,2113620,40918,499,8,Yes,318,Poor,Coimbatore,0.22,0.94,68,Good
+CUST0723,Jacob Tata,39,Doctor,54078,32033,1569394,4430,570,9,No,399,Poor,Kolkata,0.08,2.42,64,Average
+CUST0724,Jackson Kade,33,Software Engineer,234977,109444,552012,32590,350,30,No,318,Average,Hyderabad,0.14,0.2,73,Good
+CUST0725,Vasana Pandit,57,Lawyer,202459,80294,1859758,25254,680,25,Yes,199,Average,Mumbai,0.12,0.77,80,Excellent
+CUST0726,Brijesh Kota,51,Lawyer,44176,14195,2244226,1059,745,19,Yes,303,Good,Kolkata,0.02,4.23,80,Excellent
+CUST0727,Faqid Dhar,41,Civil Engineer,233980,169203,1011305,70697,770,8,Yes,89,Good,Kolkata,0.3,0.36,85,Excellent
+CUST0728,Aarnav Doctor,22,Student,119297,43607,2010136,19259,883,27,Yes,228,Poor,Mumbai,0.16,1.4,93,Excellent
+CUST0729,Ishwar Keer,28,Farmer,134836,107238,359967,44071,554,4,No,305,Average,Mumbai,0.33,0.22,61,Average
+CUST0730,Warda Wason,49,Doctor,21789,7613,2059145,7165,603,3,Yes,206,Poor,Hyderabad,0.33,7.88,51,Average
+CUST0731,Dhriti Korpal,21,Mechanical Engineer,236304,124762,839796,14152,409,4,No,191,Average,Chennai,0.06,0.3,73,Good
+CUST0732,Nikita Palla,41,Designer,200187,124198,2568031,27487,319,32,No,124,Average,Mumbai,0.14,1.07,78,Good
+CUST0733,Nilima Bhatt,33,Farmer,156098,100855,2492009,14308,882,21,Yes,343,Poor,Coimbatore,0.09,1.33,93,Excellent
+CUST0734,Omya Mangat,46,Civil Engineer,75195,43066,2509483,6627,800,21,Yes,15,Good,Mumbai,0.09,2.78,92,Excellent
+CUST0735,Girindra Hayre,43,Electrician,233864,97273,2119273,42051,696,33,Yes,87,Good,Bangalore,0.18,0.76,82,Excellent
+CUST0736,Damini Khatri,39,Doctor,219593,93347,642237,63362,533,14,No,257,Good,Jaipur,0.29,0.24,72,Good
+CUST0737,Jeremiah Kuruvilla,36,Lawyer,248728,196164,2182003,67378,350,3,Yes,321,Poor,Jaipur,0.27,0.73,65,Good
+CUST0738,Girish Vala,21,Data Analyst,235065,100404,2990344,32426,492,2,Yes,40,Average,Delhi,0.14,1.06,67,Good
+CUST0739,Banjeet Iyer,21,Mechanical Engineer,212094,80267,1702165,46952,622,25,No,256,Average,Mumbai,0.22,0.67,80,Excellent
+CUST0740,Fariq Bhavsar,25,Mechanical Engineer,40291,23327,1447491,13980,688,7,Yes,108,Good,Bangalore,0.35,2.99,63,Average
+CUST0741,Guneet Sood,38,Government Employee,21546,15325,400730,3563,516,32,Yes,261,Good,Hyderabad,0.17,1.55,57,Average
+CUST0742,Ekaja Gandhi,47,Bank Employee,63059,26818,2435241,15839,754,33,No,284,Good,Chennai,0.25,3.22,89,Excellent
+CUST0743,Anvi Lad,37,Doctor,231816,139566,1166821,39143,765,28,Yes,70,Good,Jaipur,0.17,0.42,94,Excellent
+CUST0744,Benjamin Sharaf,60,Government Employee,185404,84422,1316474,10036,500,19,Yes,244,Average,Kolkata,0.05,0.59,75,Good
+CUST0745,Aditya Edwin,32,Data Analyst,185413,100448,1979180,56911,643,18,Yes,355,Average,Jaipur,0.31,0.89,73,Good
+CUST0746,Krish Sachar,26,Government Employee,116074,45746,712007,11460,591,3,Yes,74,Poor,Pune,0.1,0.51,63,Average
+CUST0747,Abeer Zacharia,28,Electrician,173283,123442,1010637,57255,524,5,No,175,Average,Coimbatore,0.33,0.49,66,Good
+CUST0748,Vrinda Pingle,31,Sales Executive,44920,14758,1563323,5377,816,21,Yes,270,Average,Hyderabad,0.12,2.9,85,Excellent
+CUST0749,Zinal Barman,48,Software Engineer,147277,77144,1098717,23392,456,31,Yes,25,Poor,Delhi,0.16,0.62,73,Good
+CUST0750,Qadim Dhawan,33,Software Engineer,144570,85170,59414,53637,495,16,Yes,382,Poor,Kolkata,0.37,0.03,51,Average
+CUST0751,Qushi Gala,55,Data Analyst,88588,30021,1746440,33750,346,21,Yes,289,Good,Hyderabad,0.38,1.64,65,Good
+CUST0752,Yochana Wagle,50,Designer,194715,138577,1975311,51340,461,18,Yes,298,Average,Hyderabad,0.26,0.85,72,Good
+CUST0753,Sathvik Minhas,54,Mechanical Engineer,183336,114527,1156029,6630,562,21,No,354,Good,Jaipur,0.04,0.53,80,Excellent
+CUST0754,Xalak Ranganathan,31,Civil Engineer,205438,147945,1406211,4043,826,11,No,95,Good,Bangalore,0.02,0.57,100,Excellent
+CUST0755,Neelima Ahluwalia,56,Electrician,213781,163487,1107868,68067,371,12,Yes,340,Good,Ahmedabad,0.32,0.43,70,Good
+CUST0756,Dhruv Bali,57,Government Employee,244370,193393,380315,6297,797,4,Yes,157,Good,Pune,0.03,0.13,84,Excellent
+CUST0757,Caleb Dara,38,Government Employee,77630,25769,2938821,10094,448,3,No,165,Good,Coimbatore,0.13,3.15,70,Good
+CUST0758,Henry Koshy,57,Civil Engineer,197937,153361,2068165,53302,593,5,Yes,40,Good,Coimbatore,0.27,0.87,69,Good
+CUST0759,Ekbal Maharaj,35,Teacher,80970,59951,1206480,15288,563,8,Yes,287,Average,Kolkata,0.19,1.24,68,Good
+CUST0760,Ansh Rajagopal,50,Electrician,91349,43110,560225,8895,573,20,No,231,Good,Kolkata,0.1,0.51,70,Good
+CUST0761,Wahab Walla,35,Student,23139,8236,1486296,8944,433,2,Yes,238,Poor,Jaipur,0.39,5.35,43,Poor
+CUST0762,Luke Bora,29,Business,91815,44971,2088759,20358,345,2,Yes,224,Average,Pune,0.22,1.9,59,Average
+CUST0763,Vidhi Naidu,34,Mechanical Engineer,180190,67165,2288042,54979,636,10,Yes,122,Good,Coimbatore,0.31,1.06,73,Good
+CUST0764,Sneha Naidu,29,Electrician,128260,39233,173890,28674,839,19,Yes,199,Poor,Coimbatore,0.22,0.11,80,Excellent
+CUST0765,Oviya Chawla,34,Farmer,74343,46603,915908,3452,893,14,No,92,Good,Ahmedabad,0.05,1.03,95,Excellent
+CUST0766,Kamala Tella,27,Student,131529,81048,2317340,37731,575,22,Yes,250,Good,Mumbai,0.29,1.47,74,Good
+CUST0767,Siddharth Sinha,50,Software Engineer,120146,59150,2321639,19028,495,9,Yes,155,Good,Chennai,0.16,1.61,75,Good
+CUST0768,Arya Bhattacharyya,53,Mechanical Engineer,37899,14452,1702089,13497,516,23,Yes,397,Average,Hyderabad,0.36,3.74,58,Average
+CUST0769,Urvashi Edwin,41,Sales Executive,97525,38908,951140,14632,306,17,Yes,187,Average,Chennai,0.15,0.81,70,Good
+CUST0770,Fariq Mall,32,Software Engineer,99138,46401,1883667,31023,381,24,No,346,Poor,Ahmedabad,0.31,1.58,64,Average
+CUST0771,Chandran Prashad,55,Data Analyst,164489,126187,2505112,41004,576,30,Yes,88,Average,Chennai,0.25,1.27,72,Good
+CUST0772,Aachal Natt,21,Government Employee,162235,59472,2790369,40430,872,30,Yes,14,Good,Pune,0.25,1.43,94,Excellent
+CUST0773,Rayaan Palan,54,Doctor,225488,171260,321058,8376,555,29,Yes,141,Average,Hyderabad,0.04,0.12,70,Good
+CUST0774,Bhavika Shenoy,35,Government Employee,247590,147606,2306682,53202,422,1,Yes,50,Average,Coimbatore,0.21,0.78,64,Average
+CUST0775,Saanvi Shah,36,Doctor,67028,40300,513659,8084,721,26,No,330,Average,Pune,0.12,0.64,81,Excellent
+CUST0776,Rushil Dhingra,35,Student,68182,42014,2032260,23036,826,13,Yes,82,Good,Coimbatore,0.34,2.48,85,Excellent
+CUST0777,Jhalak Sampath,32,Farmer,120213,44923,2767717,33515,503,9,No,48,Good,Kolkata,0.28,1.92,75,Good
+CUST0778,Chaaya Bhalla,23,Mechanical Engineer,230780,70675,278949,55056,389,19,No,40,Poor,Mumbai,0.24,0.1,63,Average
+CUST0779,Lekha Pandey,34,Civil Engineer,119966,57119,2274815,36995,695,4,Yes,323,Poor,Ahmedabad,0.31,1.58,66,Good
+CUST0780,Nachiket Dugal,40,Sales Executive,82939,56659,1438153,31602,546,6,Yes,213,Good,Delhi,0.38,1.44,63,Average
+CUST0781,Ishanvi Barad,49,Business,190747,79747,2532804,55251,673,29,No,239,Good,Bangalore,0.29,1.11,82,Excellent
+CUST0782,Adya Chana,32,Business,24195,13593,1415528,70,714,6,Yes,117,Good,Kolkata,0.0,4.88,73,Good
+CUST0783,Sara Narayan,54,Data Analyst,37462,21655,2679867,14060,763,17,No,289,Average,Hyderabad,0.38,5.96,78,Good
+CUST0784,Abeer Kurian,38,Civil Engineer,102337,60791,588551,12785,404,17,No,113,Average,Bangalore,0.12,0.48,73,Good
+CUST0785,Vamakshi Goyal,50,Student,48362,22999,1856033,14766,860,31,No,48,Poor,Delhi,0.31,3.2,79,Good
+CUST0786,Lakshit Goel,39,Data Analyst,36861,27234,874589,5063,758,33,Yes,165,Poor,Jaipur,0.14,1.98,80,Excellent
+CUST0787,Ishita Cheema,52,Student,212916,128666,939999,66399,390,25,Yes,16,Average,Chennai,0.31,0.37,68,Good
+CUST0788,Chakradev Taneja,24,Doctor,165011,95909,1645889,18503,335,18,Yes,208,Poor,Coimbatore,0.11,0.83,73,Good
+CUST0789,Girindra Johal,51,Mechanical Engineer,184013,65210,1916850,21359,346,12,No,333,Average,Pune,0.12,0.87,78,Good
+CUST0790,Gautami Nigam,58,Sales Executive,84538,64782,1550159,28077,786,34,No,265,Average,Mumbai,0.33,1.53,83,Excellent
+CUST0791,Aarini Nori,52,Lawyer,161805,74529,1026730,4993,515,23,No,300,Good,Pune,0.03,0.53,80,Excellent
+CUST0792,Qabil Bora,40,Bank Employee,111826,89255,2040955,31891,435,21,No,332,Poor,Jaipur,0.29,1.52,73,Good
+CUST0793,Anthony Swamy,45,Designer,247360,89272,2540269,93782,379,34,Yes,371,Good,Mumbai,0.38,0.86,70,Good
+CUST0794,Manya Chakraborty,45,Sales Executive,248026,103985,2823846,61879,365,3,No,399,Good,Kolkata,0.25,0.95,72,Good
+CUST0795,Krisha Bail,52,Business,151733,109070,747120,58501,588,28,No,22,Average,Ahmedabad,0.39,0.41,66,Good
+CUST0796,Dayita Kannan,46,Teacher,50848,40552,1381954,4970,789,34,Yes,293,Poor,Bangalore,0.1,2.26,80,Excellent
+CUST0797,Vihaan Pillay,33,Farmer,87580,68534,2438910,27505,624,23,No,10,Good,Bangalore,0.31,2.32,73,Good
+CUST0798,Owen Bumb,41,Sales Executive,167907,73956,747314,26394,681,1,Yes,240,Good,Chennai,0.16,0.37,69,Good
+CUST0799,Pooja Kar,44,Teacher,28907,13551,2532377,4873,844,13,Yes,37,Poor,Bangalore,0.17,7.3,78,Good
+CUST0800,Nathan Ramesh,39,Lawyer,23976,14771,2520779,9373,348,8,Yes,196,Poor,Mumbai,0.39,8.76,49,Average
+CUST0801,Dipta Maharaj,27,Business,48930,21849,1288463,2898,554,29,Yes,196,Poor,Ahmedabad,0.06,2.19,63,Average
+CUST0802,Chakrika Sahni,60,Sales Executive,146912,109046,1025850,20220,850,19,Yes,25,Average,Hyderabad,0.14,0.58,95,Excellent
+CUST0803,Radhika Choudhry,36,Mechanical Engineer,96186,65299,1191330,29683,789,20,Yes,118,Poor,Mumbai,0.31,1.03,78,Good
+CUST0804,Zayan Brar,37,Data Analyst,187742,100026,1630245,31980,443,2,No,233,Poor,Jaipur,0.17,0.72,68,Good
+CUST0805,Vivaan Nagi,36,Bank Employee,177670,57955,2359386,509,782,33,Yes,243,Average,Bangalore,0.0,1.11,92,Excellent
+CUST0806,Balvan Sood,30,Software Engineer,248092,145004,176694,72491,729,24,Yes,87,Poor,Pune,0.29,0.06,73,Good
+CUST0807,Sara Bava,25,Software Engineer,114230,87368,1515165,2462,857,28,No,139,Good,Ahmedabad,0.02,1.11,100,Excellent
+CUST0808,Bhanumati Narain,39,Lawyer,214122,148770,702210,34267,464,11,No,130,Average,Ahmedabad,0.16,0.27,73,Good
+CUST0809,Balendra Choudhary,29,Government Employee,180819,111813,1798080,65927,777,14,No,196,Poor,Delhi,0.36,0.83,86,Excellent
+CUST0810,Saksham Thaker,31,Doctor,123193,64362,1517673,2169,595,17,No,55,Good,Kolkata,0.02,1.03,80,Excellent
+CUST0811,Vinaya Lala,55,Civil Engineer,149694,72945,1089534,54065,358,3,Yes,111,Poor,Bangalore,0.36,0.61,61,Average
+CUST0812,Omisha Rastogi,22,Farmer,56121,38599,2975420,11709,745,32,Yes,206,Poor,Pune,0.21,4.42,73,Good
+CUST0813,Bachittar Soni,45,Doctor,144340,91117,965345,16114,705,17,Yes,215,Good,Coimbatore,0.11,0.56,90,Excellent
+CUST0814,Anika Sidhu,27,Farmer,82953,39266,1699166,5480,727,7,No,338,Poor,Ahmedabad,0.07,1.71,82,Excellent
+CUST0815,Vivaan Patla,54,Lawyer,104413,51077,1070509,28256,782,5,No,317,Average,Coimbatore,0.27,0.85,87,Excellent
+CUST0816,Vincent Varty,25,Bank Employee,211480,94662,2622957,50086,557,18,No,14,Good,Mumbai,0.24,1.03,77,Good
+CUST0817,Vaishnavi Arya,24,Software Engineer,139245,52387,2751315,20545,594,16,Yes,71,Average,Bangalore,0.15,1.65,75,Good
+CUST0818,Jason Walia,49,Data Analyst,227466,153435,2457669,65455,360,23,No,388,Good,Mumbai,0.29,0.9,77,Good
+CUST0819,Nihal Chana,25,Student,35818,12716,896456,5027,795,22,Yes,379,Poor,Mumbai,0.14,2.09,80,Excellent
+CUST0820,Warinder Kadakia,49,Farmer,177464,82661,2415517,54766,359,27,No,167,Poor,Mumbai,0.31,1.13,69,Good
+CUST0821,Lila Anne,29,Bank Employee,28376,20644,749696,334,832,16,Yes,359,Poor,Delhi,0.01,2.2,73,Good
+CUST0822,William Dara,46,Mechanical Engineer,192578,90493,1152560,4952,742,5,Yes,285,Average,Chennai,0.03,0.5,83,Excellent
+CUST0823,Tristan Batra,31,Doctor,149972,113900,1162896,50671,311,25,Yes,274,Average,Hyderabad,0.34,0.65,68,Good
+CUST0824,Matthew Sekhon,41,Software Engineer,175894,104106,553135,35408,867,5,Yes,22,Poor,Mumbai,0.2,0.26,80,Excellent
+CUST0825,Indrajit Suresh,42,Teacher,107697,53750,598141,12015,841,8,No,151,Good,Kolkata,0.11,0.46,93,Excellent
+CUST0826,Chatresh Mallick,31,Sales Executive,79179,56143,1785456,12902,488,31,Yes,343,Poor,Pune,0.16,1.88,68,Good
+CUST0827,Hamsini Saha,59,Sales Executive,155840,107729,1468431,45101,685,8,No,324,Good,Jaipur,0.29,0.79,80,Excellent
+CUST0828,Laksh Jani,52,Sales Executive,127453,94661,1475312,41322,874,21,No,332,Average,Bangalore,0.32,0.96,91,Excellent
+CUST0829,Vihaan Tara,40,Data Analyst,134272,65160,612355,27456,781,12,No,243,Good,Delhi,0.2,0.38,89,Excellent
+CUST0830,Liam Sem,37,Mechanical Engineer,154829,78676,1427998,54387,416,2,No,167,Poor,Coimbatore,0.35,0.77,61,Average
+CUST0831,Lavanya Balan,42,Civil Engineer,243669,94834,1450697,43735,746,30,Yes,17,Average,Hyderabad,0.18,0.5,88,Excellent
+CUST0832,Bhavini Saha,37,Electrician,232697,109266,111071,52572,802,20,No,386,Good,Kolkata,0.23,0.04,87,Excellent
+CUST0833,Yashoda Bumb,46,Sales Executive,178515,88490,1646505,55263,900,28,Yes,204,Poor,Hyderabad,0.31,0.77,86,Excellent
+CUST0834,Lipika Som,54,Bank Employee,244110,122212,2875461,69798,432,30,No,223,Good,Ahmedabad,0.29,0.98,77,Good
+CUST0835,Bhanumati Kashyap,28,Farmer,109149,83438,109526,15046,748,17,No,305,Average,Coimbatore,0.14,0.08,81,Excellent
+CUST0836,Ranbir Kapadia,29,Civil Engineer,112736,47965,1786087,16704,344,10,No,123,Good,Pune,0.15,1.32,78,Good
+CUST0837,Falan Raghavan,60,Government Employee,27679,16809,2299012,6817,489,7,No,283,Average,Mumbai,0.25,6.92,58,Average
+CUST0838,Jason Lad,23,Teacher,218787,69070,209425,15623,869,28,Yes,158,Poor,Coimbatore,0.07,0.08,83,Excellent
+CUST0839,Advik Sama,52,Business,241026,186581,1146646,91836,310,27,Yes,243,Poor,Ahmedabad,0.38,0.4,66,Good
+CUST0840,Leela Shere,42,Government Employee,78180,33163,2219581,29565,393,15,Yes,395,Average,Jaipur,0.38,2.37,63,Average
+CUST0841,Zaitra Raja,40,Bank Employee,111876,51772,137283,25923,407,4,Yes,48,Poor,Bangalore,0.23,0.1,55,Average
+CUST0842,Gautam Chahal,22,Lawyer,224845,72338,1852705,52394,440,32,No,171,Average,Ahmedabad,0.23,0.69,75,Good
+CUST0843,Rachit Nadkarni,49,Student,200076,63674,2290025,54043,329,1,No,165,Good,Ahmedabad,0.27,0.95,69,Good
+CUST0844,Rachita Seth,54,Designer,168178,80993,352839,8309,477,25,Yes,115,Average,Hyderabad,0.05,0.17,70,Good
+CUST0845,Lohit Kunda,35,Government Employee,189697,64762,144990,71652,468,17,No,78,Poor,Kolkata,0.38,0.06,59,Average
+CUST0846,Vanya Raju,45,Business,63436,28254,2950982,14184,304,21,Yes,288,Good,Delhi,0.22,3.88,69,Good
+CUST0847,Damyanti Kapur,21,Electrician,153138,99214,1319912,7620,517,33,Yes,347,Good,Delhi,0.05,0.72,77,Good
+CUST0848,Yashica Lata,38,Civil Engineer,119417,74672,2253911,2812,863,34,Yes,202,Good,Chennai,0.02,1.57,97,Excellent
+CUST0849,Chanakya Narula,58,Mechanical Engineer,64838,34581,477857,12391,496,11,Yes,316,Poor,Bangalore,0.19,0.61,63,Average
+CUST0850,Eesha Chacko,42,Bank Employee,85756,47184,1946080,2340,816,30,Yes,323,Good,Hyderabad,0.03,1.89,92,Excellent
+CUST0851,Ojas Om,54,Business,157964,74714,2623289,43767,808,3,Yes,109,Poor,Pune,0.28,1.38,85,Excellent
+CUST0852,Nimrat Gandhi,37,Teacher,25020,9843,100216,5560,310,23,Yes,388,Good,Mumbai,0.22,0.33,49,Average
+CUST0853,Charles Madan,37,Sales Executive,157817,81743,80416,30784,830,9,Yes,144,Good,Jaipur,0.2,0.04,77,Good
+CUST0854,Aradhana Sibal,41,Bank Employee,51002,36298,1418191,9320,396,31,Yes,111,Poor,Mumbai,0.18,2.32,63,Average
+CUST0855,Utkarsh Chana,38,Mechanical Engineer,146444,77728,1835550,54294,627,13,Yes,256,Average,Bangalore,0.37,1.04,73,Good
+CUST0856,Gaurang Tripathi,31,Electrician,58448,20850,2336013,15791,511,24,No,146,Average,Mumbai,0.27,3.33,65,Good
+CUST0857,Chaaya Om,56,Software Engineer,170026,104158,2286777,17167,575,17,Yes,299,Poor,Kolkata,0.1,1.12,73,Good
+CUST0858,Fitan Agarwal,50,Student,198910,82170,2794465,5832,419,35,No,248,Good,Mumbai,0.03,1.17,80,Excellent
+CUST0859,Wakeeta Cherian,39,Electrician,71951,33813,902222,3234,736,5,No,292,Good,Hyderabad,0.04,1.04,83,Excellent
+CUST0860,Balendra Nori,23,Lawyer,238217,72764,383242,20317,536,14,Yes,159,Average,Hyderabad,0.09,0.13,70,Good
+CUST0861,Rajeshri Mukherjee,55,Doctor,246381,93971,2719524,68916,720,6,No,294,Average,Jaipur,0.28,0.92,86,Excellent
+CUST0862,Rushil Nadkarni,27,Doctor,118825,92012,2865857,26044,757,18,No,165,Poor,Hyderabad,0.22,2.01,90,Excellent
+CUST0863,Guneet Sule,39,Student,51145,25872,978586,12466,746,0,No,391,Average,Ahmedabad,0.24,1.59,70,Good
+CUST0864,Amruta Upadhyay,39,Student,183972,129661,1441446,39921,874,12,Yes,245,Poor,Ahmedabad,0.22,0.65,90,Excellent
+CUST0865,Yasti Dara,30,Teacher,93666,44380,2886362,32646,312,32,No,334,Average,Bangalore,0.35,2.57,66,Good
+CUST0866,Amara Ramakrishnan,53,Data Analyst,131932,74076,2292613,31712,475,4,Yes,315,Poor,Hyderabad,0.24,1.45,65,Good
+CUST0867,Chandran Deshpande,40,Lawyer,85258,33530,2682236,9010,392,24,Yes,169,Good,Chennai,0.11,2.62,72,Good
+CUST0868,Idika Iyer,59,Government Employee,104838,72420,2106865,16793,412,13,No,101,Average,Bangalore,0.16,1.67,78,Good
+CUST0869,Kai Nair,52,Government Employee,249539,119169,2363772,14820,675,21,No,382,Poor,Coimbatore,0.06,0.79,81,Excellent
+CUST0870,Finn Chahal,36,Data Analyst,98637,50962,1882609,38299,528,13,Yes,34,Poor,Coimbatore,0.39,1.59,61,Average
+CUST0871,Ishita Mander,54,Sales Executive,70410,28184,1378943,12296,838,11,Yes,260,Poor,Mumbai,0.17,1.63,88,Excellent
+CUST0872,Ekalinga Mahajan,50,Teacher,223765,94634,413544,8339,376,17,Yes,159,Average,Kolkata,0.04,0.15,70,Good
+CUST0873,Suhani Sundaram,22,Teacher,51703,19073,1361976,13475,331,6,Yes,111,Good,Coimbatore,0.26,2.2,62,Average
+CUST0874,Hardik Aurora,32,Data Analyst,207730,100936,1550674,17188,774,10,No,222,Poor,Ahmedabad,0.08,0.62,91,Excellent
+CUST0875,Viraj Sinha,34,Farmer,59735,19597,1870289,4699,490,7,Yes,309,Poor,Chennai,0.08,2.61,61,Average
+CUST0876,Osha Dalal,46,Student,49690,21251,2105287,8087,721,5,Yes,320,Poor,Coimbatore,0.16,3.53,71,Good
+CUST0877,Zinal Iyengar,30,Student,218190,155147,1354020,32762,786,18,Yes,132,Average,Pune,0.15,0.52,92,Excellent
+CUST0878,Urvashi Narang,21,Doctor,59392,24569,550686,5646,837,22,No,203,Good,Mumbai,0.1,0.77,85,Excellent
+CUST0879,Laksh Patla,24,Mechanical Engineer,209393,126985,1686122,72245,622,29,No,228,Poor,Ahmedabad,0.35,0.67,74,Good
+CUST0880,Alexander Thaker,22,Student,77344,55824,1680412,322,508,28,No,148,Good,Hyderabad,0.0,1.81,75,Good
+CUST0881,Lipika Randhawa,58,Farmer,203470,149402,600344,19766,792,7,Yes,367,Good,Pune,0.1,0.25,87,Excellent
+CUST0882,Vedhika Chakraborty,36,Civil Engineer,107046,60464,1988773,1775,535,17,No,281,Poor,Bangalore,0.02,1.55,76,Good
+CUST0883,Vritti Srivastava,34,Student,82908,30919,1965299,2395,313,4,Yes,195,Poor,Delhi,0.03,1.98,63,Average
+CUST0884,Indrajit Kanda,57,Government Employee,66521,39723,2459093,2015,579,28,No,71,Good,Kolkata,0.03,3.08,75,Good
+CUST0885,Nitesh Chanda,37,Designer,236224,159690,1659547,13039,521,0,No,282,Average,Coimbatore,0.06,0.59,70,Good
+CUST0886,Ikbal Nadkarni,40,Lawyer,148903,51721,948210,35086,674,32,Yes,66,Average,Bangalore,0.24,0.53,77,Good
+CUST0887,Tripti Gour,47,Lawyer,162872,67639,2758220,46667,688,34,Yes,320,Good,Coimbatore,0.29,1.41,79,Good
+CUST0888,Zayyan Babu,27,Mechanical Engineer,70937,46262,382377,8035,774,9,Yes,114,Poor,Jaipur,0.11,0.45,78,Good
+CUST0889,Nitesh Suri,37,Business,160849,75144,2785486,50966,364,18,Yes,243,Average,Chennai,0.32,1.44,68,Good
+CUST0890,Jagvi Kohli,33,Data Analyst,114476,88129,2751694,38243,353,32,Yes,18,Good,Hyderabad,0.33,2.0,70,Good
+CUST0891,Hiral Dave,23,Teacher,73040,38197,2725257,19915,488,26,Yes,369,Good,Coimbatore,0.27,3.11,69,Good
+CUST0892,Tripti Sundaram,39,Mechanical Engineer,179469,137738,2288619,13342,573,8,No,109,Average,Hyderabad,0.07,1.06,76,Good
+CUST0893,Chakradev Kannan,40,Mechanical Engineer,54908,30113,339023,15329,859,9,Yes,155,Average,Kolkata,0.28,0.51,75,Good
+CUST0894,Bhanumati Balay,35,Government Employee,161582,91819,1720395,16790,628,2,No,392,Good,Jaipur,0.1,0.89,77,Good
+CUST0895,Eesha Seth,25,Sales Executive,112806,48077,1548511,32577,707,8,No,371,Average,Pune,0.29,1.14,86,Excellent
+CUST0896,Karan Borah,25,Data Analyst,236753,95993,2513785,64624,340,27,No,221,Good,Coimbatore,0.27,0.88,77,Good
+CUST0897,Chaman Vohra,55,Lawyer,112070,77208,1643007,7710,507,13,Yes,260,Good,Bangalore,0.07,1.22,77,Good
+CUST0898,Liam Bahri,54,Designer,75050,42619,2515282,2166,808,25,No,137,Average,Ahmedabad,0.03,2.79,93,Excellent
+CUST0899,Deepa Krish,44,Teacher,56985,26543,769396,11983,740,30,Yes,147,Good,Jaipur,0.21,1.13,72,Good
+CUST0900,Dhruv Gaba,47,Designer,45332,17152,74192,270,507,17,Yes,179,Good,Coimbatore,0.01,0.14,52,Average
+CUST0901,Mugdha Din,34,Mechanical Engineer,87753,51339,253725,23063,667,28,No,279,Poor,Kolkata,0.26,0.24,63,Average
+CUST0902,Bimala Tak,49,Sales Executive,241247,85407,2168351,22828,801,30,Yes,373,Average,Coimbatore,0.09,0.75,95,Excellent
+CUST0903,Onveer Gandhi,43,Teacher,194133,99935,681493,13989,801,17,No,89,Poor,Mumbai,0.07,0.29,91,Excellent
+CUST0904,Diya Kale,31,Software Engineer,117665,49797,2391501,18325,466,3,No,149,Average,Coimbatore,0.16,1.69,73,Good
+CUST0905,Krishna Swaminathan,36,Teacher,74173,27958,2121873,19736,689,32,Yes,369,Average,Bangalore,0.27,2.38,72,Good
+CUST0906,David Pal,54,Bank Employee,244648,129728,1602266,15119,324,6,No,170,Average,Bangalore,0.06,0.55,76,Good
+CUST0907,Eshana Bhagat,43,Designer,135220,107549,2347287,16468,575,17,No,136,Average,Mumbai,0.12,1.45,78,Good
+CUST0908,Inaya Mistry,22,Electrician,148287,48680,1731973,24567,601,14,Yes,199,Good,Mumbai,0.17,0.97,82,Excellent
+CUST0909,Orinder Setty,30,Lawyer,144311,91254,36137,23814,312,23,Yes,331,Poor,Jaipur,0.17,0.02,58,Average
+CUST0910,Siddharth Mukhopadhyay,40,Lawyer,93853,43923,2217314,1734,822,28,No,356,Good,Mumbai,0.02,1.97,95,Excellent
+CUST0911,Ekiya Bala,56,Lawyer,162194,113176,263129,15070,693,19,Yes,160,Poor,Coimbatore,0.09,0.14,68,Good
+CUST0912,Omisha Badal,29,Government Employee,168548,116298,1075201,1568,652,25,No,64,Good,Ahmedabad,0.01,0.53,85,Excellent
+CUST0913,Idika Nayak,35,Lawyer,45232,18757,759594,1446,654,6,Yes,390,Poor,Pune,0.03,1.4,61,Average
+CUST0914,Osha Ganesan,60,Designer,113453,59836,818188,30494,396,24,No,89,Poor,Hyderabad,0.27,0.6,73,Good
+CUST0915,Chakrika Toor,49,Bank Employee,195634,143228,2851061,14071,892,13,No,111,Poor,Delhi,0.07,1.21,96,Excellent
+CUST0916,Ranveer Dass,59,Government Employee,236280,143898,488225,31130,388,4,No,10,Average,Mumbai,0.13,0.17,68,Good
+CUST0917,Geetika Chawla,40,Bank Employee,77638,37223,494299,20697,692,0,Yes,296,Poor,Hyderabad,0.27,0.53,57,Average
+CUST0918,Anya Ahluwalia,40,Lawyer,150551,58771,391461,44451,594,9,Yes,248,Poor,Pune,0.3,0.22,59,Average
+CUST0919,Sanya Singh,42,Data Analyst,72134,33086,413398,25432,354,17,No,293,Good,Hyderabad,0.35,0.48,63,Average
+CUST0920,Janani Kannan,29,Designer,97666,66447,1554745,29081,705,1,Yes,182,Good,Jaipur,0.3,1.33,70,Good
+CUST0921,Nathaniel Kale,43,Farmer,68875,48338,2251997,10444,804,17,Yes,360,Poor,Jaipur,0.15,2.72,88,Excellent
+CUST0922,Vihaan Kibe,29,Sales Executive,221003,131264,2017444,45218,781,0,No,247,Good,Delhi,0.2,0.76,86,Excellent
+CUST0923,Omisha Narang,27,Mechanical Engineer,205684,132919,621784,30565,476,33,No,59,Poor,Jaipur,0.15,0.25,71,Good
+CUST0924,Omisha Chad,21,Civil Engineer,125146,64966,2494749,36613,467,33,No,225,Poor,Jaipur,0.29,1.66,73,Good
+CUST0925,Lopa Wagle,52,Data Analyst,109966,69004,2619528,18025,562,5,No,311,Good,Ahmedabad,0.16,1.99,75,Good
+CUST0926,Pallavi Behl,45,Bank Employee,38128,18492,1656265,1028,632,17,No,262,Good,Pune,0.03,3.62,75,Good
+CUST0927,Naksh Kara,59,Teacher,189759,126903,1153623,16018,581,17,No,15,Good,Bangalore,0.08,0.51,80,Excellent
+CUST0928,Yagnesh Dutta,35,Student,175884,62317,1087737,26192,467,25,Yes,56,Good,Pune,0.15,0.52,77,Good
+CUST0929,Chavvi Mani,59,Farmer,149620,54672,466025,8476,338,3,No,386,Average,Kolkata,0.06,0.26,68,Good
+CUST0930,Jeremiah Bhat,41,Sales Executive,102739,69020,460100,26102,626,20,No,14,Average,Chennai,0.25,0.37,75,Good
+CUST0931,Januja Palan,59,Teacher,222755,135943,245291,79981,637,12,Yes,351,Poor,Pune,0.36,0.09,61,Average
+CUST0932,Sai Ben,55,Electrician,29234,13934,1374540,11441,699,34,No,253,Good,Kolkata,0.39,3.92,63,Average
+CUST0933,Joshua Sachdeva,27,Mechanical Engineer,214660,171718,1378433,30286,376,25,No,136,Good,Kolkata,0.14,0.54,80,Excellent
+CUST0934,Vritti Shukla,46,Lawyer,23297,14232,306360,3954,401,28,Yes,43,Poor,Bangalore,0.17,1.1,53,Average
+CUST0935,Bhanumati Kanda,27,Farmer,36338,15059,2404234,11948,821,24,No,322,Poor,Mumbai,0.33,5.51,79,Good
+CUST0936,Baghyawati Pathak,58,Bank Employee,183894,139289,810635,52560,855,11,Yes,50,Poor,Coimbatore,0.29,0.37,90,Excellent
+CUST0937,Unnati Mohan,37,Electrician,113196,82981,1637508,1984,820,22,Yes,57,Average,Delhi,0.02,1.21,95,Excellent
+CUST0938,Hamsini Bhat,42,Designer,214663,92326,2201916,41475,616,0,No,307,Poor,Bangalore,0.19,0.85,73,Good
+CUST0939,Oviya Nagar,56,Data Analyst,41783,23717,2459863,1884,375,34,No,140,Average,Mumbai,0.05,4.91,68,Good
+CUST0940,Kevin Sood,49,Electrician,180265,126432,1681952,45308,729,7,No,277,Good,Delhi,0.25,0.78,88,Excellent
+CUST0941,William Viswanathan,33,Government Employee,131878,58892,129339,33245,474,11,No,396,Poor,Chennai,0.25,0.08,63,Average
+CUST0942,Mahika Virk,51,Electrician,106874,50930,2536865,2556,712,6,No,28,Average,Chennai,0.02,1.98,89,Excellent
+CUST0943,Radha Randhawa,21,Electrician,21983,10477,91417,5389,417,30,No,361,Good,Mumbai,0.25,0.35,47,Average
+CUST0944,Oscar Bhatti,49,Business,111338,79811,1513400,17446,427,1,No,377,Average,Delhi,0.16,1.13,70,Good
+CUST0945,Krisha Dey,53,Farmer,213384,96967,2113487,82557,421,12,No,69,Average,Coimbatore,0.39,0.83,71,Good
+CUST0946,Aadi Gade,26,Student,97245,77121,608597,22593,595,10,Yes,182,Poor,Bangalore,0.23,0.52,58,Average
+CUST0947,Vasatika Sule,50,Software Engineer,146229,111331,2529676,18298,854,0,No,30,Poor,Ahmedabad,0.13,1.44,88,Excellent
+CUST0948,Vritti Varughese,32,Farmer,175749,75427,1657509,3763,305,2,No,180,Average,Chennai,0.02,0.79,70,Good
+CUST0949,Yutika Sharma,37,Mechanical Engineer,44680,17388,2740521,17316,618,35,Yes,288,Average,Jaipur,0.39,5.11,63,Average
+CUST0950,Widisha Chana,35,Mechanical Engineer,31201,14741,28342,4140,646,13,No,148,Poor,Kolkata,0.13,0.08,56,Average
+CUST0951,Pavani Karpe,42,Teacher,76332,25510,2396424,30216,726,24,Yes,284,Good,Bangalore,0.4,2.62,73,Good
+CUST0952,Bina Singhal,44,Electrician,104519,34534,2492330,14395,649,24,No,207,Good,Chennai,0.14,1.99,85,Excellent
+CUST0953,Kabir Goswami,27,Student,135639,68189,1989391,44033,558,19,Yes,222,Good,Bangalore,0.32,1.22,70,Good
+CUST0954,Aahana Soni,59,Designer,80795,33046,2879413,15843,391,31,Yes,31,Poor,Pune,0.2,2.97,65,Good
+CUST0955,Bhavini Panchal,45,Sales Executive,194429,143412,1259846,6328,841,32,Yes,183,Average,Kolkata,0.03,0.54,95,Excellent
+CUST0956,Niharika Dhawan,44,Business,137750,104631,2592132,288,696,0,No,70,Poor,Hyderabad,0.0,1.57,73,Good
+CUST0957,Avi Dass,44,Sales Executive,100049,73456,2457818,37107,827,18,Yes,154,Poor,Kolkata,0.37,2.05,86,Excellent
+CUST0958,Yashoda Batta,22,Bank Employee,220575,100606,861802,86544,634,4,No,274,Poor,Coimbatore,0.39,0.33,69,Good
+CUST0959,Henry Venkatesh,45,Teacher,131535,41474,2709447,3297,631,21,Yes,91,Average,Kolkata,0.03,1.72,80,Excellent
+CUST0960,Yoshita Jani,60,Designer,138028,91686,2558323,40322,643,34,Yes,246,Average,Chennai,0.29,1.54,77,Good
+CUST0961,Dayamai Kara,51,Business,106632,51820,227479,10646,322,12,Yes,130,Poor,Chennai,0.1,0.18,63,Average
+CUST0962,Pratyush Chakraborty,44,Business,82650,60755,2654629,2699,672,16,Yes,182,Good,Hyderabad,0.03,2.68,77,Good
+CUST0963,Madhav Mannan,52,Government Employee,38543,18437,2210498,1726,699,21,Yes,273,Average,Kolkata,0.04,4.78,70,Good
+CUST0964,Chandran Lad,60,Designer,55281,38193,2273866,19895,348,16,No,159,Poor,Mumbai,0.36,3.43,59,Average
+CUST0965,Wridesh Dar,31,Business,94059,55846,1448506,33622,722,33,Yes,296,Poor,Pune,0.36,1.28,74,Good
+CUST0966,Nidra Varma,33,Sales Executive,58589,40409,372284,13052,398,22,No,38,Good,Kolkata,0.22,0.53,62,Average
+CUST0967,Sudiksha Dara,29,Student,248842,194599,308668,94162,550,8,No,255,Good,Chennai,0.38,0.1,66,Good
+CUST0968,Prisha Kohli,24,Lawyer,72464,47663,739736,28539,682,22,No,140,Average,Delhi,0.39,0.85,66,Good
+CUST0969,Sneha Doshi,38,Government Employee,167173,59789,2194080,62037,464,12,Yes,304,Poor,Jaipur,0.37,1.09,66,Good
+CUST0970,Shivansh Bora,25,Designer,70901,42605,470002,635,801,9,No,282,Good,Kolkata,0.01,0.55,88,Excellent
+CUST0971,Priya Peri,59,Mechanical Engineer,29004,15922,2943326,11411,342,13,Yes,42,Average,Coimbatore,0.39,8.46,53,Average
+CUST0972,Samesh Nigam,42,Designer,98938,41846,2564754,22827,739,7,No,180,Good,Bangalore,0.23,2.16,83,Excellent
+CUST0973,Patrick More,60,Sales Executive,33220,17902,2038509,11298,397,1,No,43,Average,Chennai,0.34,5.11,53,Average
+CUST0974,Viraj Sharma,56,Student,114447,82617,772897,34883,897,4,Yes,186,Good,Mumbai,0.3,0.56,80,Excellent
+CUST0975,Amruta Sant,31,Civil Engineer,58367,30420,1211883,6601,345,27,Yes,181,Good,Pune,0.11,1.73,67,Good
+CUST0976,Banjeet Setty,35,Bank Employee,193149,138544,345447,76460,484,33,No,242,Poor,Pune,0.4,0.15,59,Average
+CUST0977,Yasti Palan,36,Data Analyst,20370,8017,517396,1359,838,8,Yes,259,Poor,Ahmedabad,0.07,2.12,71,Good
+CUST0978,Ishanvi Bala,23,Designer,219774,145436,1258841,23260,392,4,No,284,Good,Pune,0.11,0.48,75,Good
+CUST0979,Abdul Viswanathan,33,Designer,161800,66117,2745079,17901,513,28,No,386,Average,Chennai,0.11,1.41,78,Good
+CUST0980,Jeevika Dani,42,Civil Engineer,48160,26947,2479024,7893,794,7,Yes,331,Average,Ahmedabad,0.16,4.29,80,Excellent
+CUST0981,Oliver Gera,45,Software Engineer,91569,68174,456644,14297,355,8,No,129,Good,Bangalore,0.16,0.42,68,Good
+CUST0982,Falan Manne,45,Government Employee,219870,100095,693809,19636,453,5,Yes,283,Average,Jaipur,0.09,0.26,65,Good
+CUST0983,Hamsini Datta,45,Civil Engineer,207678,153042,2871298,9856,588,17,Yes,101,Poor,Kolkata,0.05,1.15,73,Good
+CUST0984,Yutika Shanker,31,Data Analyst,164362,93005,1821506,11397,415,20,No,335,Good,Chennai,0.07,0.92,80,Excellent
+CUST0985,Nitara Saini,54,Software Engineer,141121,77785,688804,49853,492,20,Yes,55,Good,Bangalore,0.35,0.41,65,Good
+CUST0986,Daksh Khurana,51,Teacher,105351,78917,1588542,18868,613,15,Yes,218,Average,Delhi,0.18,1.26,80,Excellent
+CUST0987,Chatresh Sharaf,40,Software Engineer,213678,114647,812098,79245,735,16,Yes,169,Good,Bangalore,0.37,0.32,83,Excellent
+CUST0988,Hemangini Tank,38,Student,20745,7695,2932706,7831,876,29,Yes,93,Poor,Jaipur,0.38,11.78,71,Good
+CUST0989,Saanvi Sen,23,Doctor,164585,108438,2965572,25207,808,9,No,281,Average,Mumbai,0.15,1.5,96,Excellent
+CUST0990,Ayush Parsa,39,Sales Executive,191229,119776,1095825,69760,347,22,No,344,Poor,Bangalore,0.36,0.48,69,Good
+CUST0991,Elijah Sekhon,53,Business,131826,101102,1063053,43995,558,30,Yes,181,Poor,Jaipur,0.33,0.67,66,Good
+CUST0992,Kritika Contractor,40,Lawyer,21229,9590,1851063,6939,860,22,Yes,147,Poor,Pune,0.33,7.27,71,Good
+CUST0993,Laban Chander,58,Doctor,190142,90418,2382148,74689,418,11,Yes,358,Poor,Bangalore,0.39,1.04,66,Good
+CUST0994,Forum Ramesh,22,Student,170315,105242,2479862,54981,334,12,Yes,139,Average,Coimbatore,0.32,1.21,68,Good
+CUST0995,Samar Gill,39,Mechanical Engineer,24855,16810,2011188,2601,704,19,Yes,60,Poor,Bangalore,0.1,6.74,71,Good
+CUST0996,Upadhriti Kade,44,Civil Engineer,214962,118598,37686,28839,314,0,No,211,Average,Jaipur,0.13,0.01,55,Average
+CUST0997,Pooja Dhaliwal,31,Data Analyst,138771,45594,261206,8421,393,7,No,288,Poor,Chennai,0.06,0.16,64,Average
+CUST0998,Amara Buch,27,Designer,60967,20993,1512705,14551,817,17,No,77,Good,Bangalore,0.24,2.07,92,Excellent
+CUST0999,Aishani Wali,49,Lawyer,210319,136616,1035024,59528,348,3,Yes,100,Average,Ahmedabad,0.28,0.41,67,Good
+CUST1000,Dipta Dhar,44,Teacher,99272,77139,900780,35547,612,17,No,259,Good,Jaipur,0.36,0.76,73,Good
