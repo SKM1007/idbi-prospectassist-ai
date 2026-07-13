@@ -4,11 +4,11 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 
 import {
-    BrainCircuit,
-    FileText,
-    LayoutDashboard,
-    Settings,
-    Users,
+  BrainCircuit,
+  FileText,
+  LayoutDashboard,
+  Settings,
+  Users,
 } from "lucide-react";
 
 const menu = [
@@ -25,7 +25,7 @@ const menu = [
   {
     title: "Prospect Analysis",
     icon: BrainCircuit,
-    href: "/customer/CUST001",
+    href: "/predict",
   },
   {
     title: "Reports",

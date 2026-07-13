@@ -37,13 +37,17 @@ export const api = {
     const customers: any[] = await request("/customers");
 
     return customers.map((c) => ({
-      id: c.customer_id,
-      customerId: c.customer_id,
-      name: c.name,
-      city: c.city,
-      prospectScore: c.prospect_score,
-      category: c.category,
-    }));
+    id: c.customer_id,
+    name: c.name,
+    city: c.city,
+    occupation: c.occupation,
+    salary: c.salary,
+    creditScore: c.credit_score,
+    prospectScore: c.prospect_score,
+    recommendation: {
+      loanType: c.loan_type,
+    },
+  }));
   },
 
   async getCustomer(id: string) {

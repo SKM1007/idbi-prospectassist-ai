@@ -24,5 +24,7 @@ export interface Customer {
   transactionCount: number;
   employmentYears: number;
 
+  
+
   recommendation: LoanRecommendation;
 }

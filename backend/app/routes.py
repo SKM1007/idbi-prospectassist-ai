@@ -117,12 +117,18 @@ def customers():
 
         result.append(
             CustomerSummary(
-                customer_id=customer["customer_id"],
-                name=customer["name"],
-                city=customer["city"],
-                prospect_score=customer["prospect_score"],
-                category=customer["category"]
-            )
+            customer_id=customer["customer_id"],
+            name=customer["name"],
+            city=customer["city"],
+            occupation=customer["occupation"],
+            salary=customer["salary"],
+            credit_score=customer["credit_score"],
+            prospect_score=customer["prospect_score"],
+            category=customer["category"],
+            loan_type=generate_recommendation(
+                customer["prospect_score"]
+            )["eligible_products"][0]
+        )
         )
 
     return result

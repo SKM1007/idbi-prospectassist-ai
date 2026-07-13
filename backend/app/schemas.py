@@ -58,6 +58,10 @@ class CustomerSummary(BaseModel):
     city: str
     prospect_score: float
     category: str
+    salary: float
+    credit_score: int
+    occupation: str
+    loan_type: str
 
 
 # =====================================================
