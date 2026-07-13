@@ -1,10 +1,10 @@
 "use client";
 
 import {
-    BadgeCheck,
-    IndianRupee,
-    TrendingUp,
-    Users,
+  BadgeCheck,
+  IndianRupee,
+  TrendingUp,
+  Users,
 } from "lucide-react";
 
 interface DashboardCardsProps {
@@ -23,19 +23,19 @@ export default function DashboardCards({
   const cards = [
     {
       title: "Total Customers",
-      value: totalCustomers.toLocaleString(),
+      value: totalCustomers.toLocaleString("en-IN"),
       subtitle: "Updated Today",
       icon: Users,
     },
     {
       title: "High Prospect Customers",
-      value: highProspects.toLocaleString(),
+      value: highProspects.toLocaleString("en-IN"),
       subtitle: "AI Evaluated",
       icon: TrendingUp,
     },
     {
       title: "Average Monthly Income",
-      value: `₹${averageSalary.toLocaleString()}`,
+      value: `₹${averageSalary.toLocaleString("en-IN")}`,
       subtitle: "Customer Portfolio",
       icon: IndianRupee,
     },
