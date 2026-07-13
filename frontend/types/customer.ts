@@ -1,30 +1,29 @@
 export interface LoanRecommendation {
   loanType: string;
-  amount: string;
-  confidence: number;
-  risk: "Low" | "Medium" | "High";
-  interestRate: string;
+  amount?: string;
+  confidence?: number;
+  risk?: "Low" | "Medium" | "High";
+  interestRate?: string;
 }
 
 export interface Customer {
   id: string;
   name: string;
-  age: number;
-  occupation: string;
-  city: string;
 
-  salary: number;
-  monthlyExpense: number;
-  savings: number;
-  emi: number;
+  age?: number;
+  occupation?: string;
+  city?: string;
 
-  creditScore: number;
-  prospectScore: number;
+  salary?: number;
+  monthlyExpense?: number;
+  savings?: number;
+  emi?: number;
 
-  transactionCount: number;
-  employmentYears: number;
+  creditScore?: number;
+  prospectScore?: number;
 
-  
+  transactionCount?: number;
+  employmentYears?: number;
 
-  recommendation: LoanRecommendation;
+  recommendation?: LoanRecommendation;
 }
