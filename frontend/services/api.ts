@@ -1,4 +1,4 @@
-const API = "http://localhost:8000";
+const API = "https://idbi-prospectassist-prospectassist-ai.onrender.com/";
 
 async function request(url: string, options?: RequestInit) {
   try {
