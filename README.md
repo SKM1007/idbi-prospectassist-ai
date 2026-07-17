@@ -134,12 +134,12 @@ POST /upload
 
 ## Team Members
 
-### Manoj S K
+### Panabaka Mahesh
 - Frontend Development
 - Integration
 - Deployment
 
-### Panabaka Mahesh
+### Manoj S K
 - Backend Development
 - API Development
 - Machine Learning Integration
